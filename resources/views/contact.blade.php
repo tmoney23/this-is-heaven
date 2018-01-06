@@ -15,7 +15,7 @@
             html, body {
                 background-color: #461D7C;
                 color: #FDD023;
-                font-family: 'Libre Baskerville', sans-serif;
+                font-family: 'Libre Baskerville', serif;
                 font-weight: 100;
                 height: 100vh;
                 margin: 0;
