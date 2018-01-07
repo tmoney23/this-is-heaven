@@ -69,7 +69,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Contact me, baby.
+                    I'm in dis bitch.
                 </div>
             </div>
         </div>
