@@ -61,7 +61,7 @@
                 <div class="title m-b-md">
                     I spend all my moneys on travels
                 </div>
-                <img src="/tmoney.jpg" width="50%" height="50%"/>
+                <img src="/tmoney.jpg" width="20%" height="10%"/>
             </div>
         </div>
     </body>
