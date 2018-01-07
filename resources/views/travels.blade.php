@@ -15,7 +15,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #bbbbbb;
+                background-color: #F1C40F;
                 color: #000000;
                 font-family: 'Libre Baskerville', serif;
                 font-weight: 100;
@@ -48,7 +48,7 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 65px;
             }
 
             .m-b-md {
