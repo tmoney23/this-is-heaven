@@ -76,7 +76,7 @@
 
                 <div class="links">
                     <a href="https://instagram.com/thomasdmoore">instagram</a>
-                    <a href="/cornhole">cornhole</a>
+                    <a href="/nouns">cornhole</a>
                     <a href="/travels">travels</a>
                     <a href="/about">about</a>
                     <a href="/contact">contact</a>
