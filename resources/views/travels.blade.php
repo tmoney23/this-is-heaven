@@ -59,7 +59,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Travels
+                    I spend all my moneys on travels
                 </div>
                 <img src="/tmoney.jpg" width="100%" height="100%"/>
             </div>
