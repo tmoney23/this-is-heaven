@@ -15,8 +15,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #0033A0;
-                color: #ffffff;
+                background-color: #6534ff;
+                color: #fccdd3;
                 font-family: 'Libre Baskerville', serif;
                 font-weight: 100;
                 height: 100vh;
@@ -52,10 +52,10 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: #fccdd3;
                 padding: 0 25px;
-                font-size: 12px;
-                font-weight: 600;
+                font-size: 10px;
+                font-weight: 500;
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
@@ -75,11 +75,11 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://instagram.com/thomasdmoore">Instagram</a>
-                    <a href="/cornhole">Cornhole</a>
-                    <a href="/travels">Travels</a>
-                    <a href="/about">About</a>
-                    <a href="/contact">Contact</a>
+                    <a href="https://instagram.com/thomasdmoore">instagram</a>
+                    <a href="/cornhole">cornhole</a>
+                    <a href="/travels">travels</a>
+                    <a href="/about">about</a>
+                    <a href="/contact">contact</a>
                 </div>
             </div>
         </div>
