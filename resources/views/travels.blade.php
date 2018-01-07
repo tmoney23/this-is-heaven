@@ -15,8 +15,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #F1C40F;
-                color: #000000;
+                background-color: #edd9c0;
+                color: #a8b6bf;
                 font-family: 'Libre Baskerville', serif;
                 font-weight: 100;
                 height: 100vh;
