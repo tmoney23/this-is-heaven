@@ -71,7 +71,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    well oh right.
+                    my world is rocked.
                 </div>
             </div>
         </div>
