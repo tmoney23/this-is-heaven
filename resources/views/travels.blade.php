@@ -64,7 +64,7 @@
                     ramblin' man
 
                 </div>
-                <img src="/church.jpg" width="40%" height="20%"/>
+                <img src="/northernlights.jpg" width="40%" height="20%"/>
                 <img src="/midwayhorses.jpg" width="40%" height="20%"/>
             </div>
         </div>
