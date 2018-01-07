@@ -69,7 +69,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    it's lit.
+                    well oh right.
                 </div>
             </div>
         </div>
