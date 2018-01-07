@@ -69,7 +69,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    I'm in dis bitch.
+                    Call a brotha.
                 </div>
             </div>
         </div>
