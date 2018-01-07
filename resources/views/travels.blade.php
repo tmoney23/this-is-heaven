@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #B2BABB;
+                background-color: #bbbbbb;
                 color: #000000;
                 font-family: 'Libre Baskerville', serif;
                 font-weight: 100;
