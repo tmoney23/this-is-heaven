@@ -18,7 +18,7 @@
                 background-color: #c9d8c5;
                 color: #7d4627;
                 font-family: 'Libre Baskerville', serif;
-                font-weight: 150;
+                font-weight: 100;
                 height: 100vh;
                 margin: 0;
             }
@@ -61,9 +61,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    I spend all my moneys on travels
+                    ramblin' man
                 </div>
-                <img src="/tmoney.jpg" width="20%" height="10%"/>
+                <img src="/tmoney.jpg" width="30%" height="10%"/>
             </div>
         </div>
     </body>
