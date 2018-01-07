@@ -18,7 +18,7 @@
                 background-color: #c9d8c5;
                 color: #7d4627;
                 font-family: 'Libre Baskerville', serif;
-                font-weight: 100;
+                font-weight: 150;
                 height: 100vh;
                 margin: 0;
             }
