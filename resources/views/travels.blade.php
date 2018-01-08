@@ -16,11 +16,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ramblin' man
+                    
 
                 </div>
-                <img src="/northernlights.jpg" width="40%" height="20%"/>
-                <img src="/midwayhorses.jpg" width="40%" height="20%"/>
             </div>
         </div>
     </body>
