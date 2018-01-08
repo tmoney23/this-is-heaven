@@ -41,9 +41,9 @@
             <span class="navbar-item">
               <a class="button is-success is-inverted">
                 <span class="icon">
-                  <i class="fa fa-github"></i>
+                  <i class="fa fa-instagram"></i>
                 </span>
-                <span>Download</span>
+                <span>@thomasdmoore</span>
               </a>
             </span>
           </div>
@@ -52,17 +52,6 @@
     </header>
   </div>
 
-  <!-- Hero content: will be in the middle -->
-  <div class="hero-body">
-    <div class="container has-text-centered">
-      <h1 class="title">
-        Title
-      </h1>
-      <h2 class="subtitle">
-        Subtitle
-      </h2>
-    </div>
-  </div>
 
   <!-- Hero footer: will stick at the bottom -->
   <div class="hero-foot">
