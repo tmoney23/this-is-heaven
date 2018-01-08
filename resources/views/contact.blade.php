@@ -48,11 +48,11 @@
                   <a href="/travels" class="navbar-item">travels</a>
                   <a href="/prints" class="navbar-item">prints</a>
                   <span class="navbar-item">
-                    <a href="https://instagram.com/thomasdmoore" class="button is-success is-inverted">
+                    <a href="/contact" class="button is-success is-inverted">
                       <span class="icon">
-                        <i class="fa fa-instagram"></i>
+                        <i class="fa fa-paper-plane"></i>
                       </span>
-                      <span>thomasdmoore</span>
+                      <span>contact</span>
                     </a>
                   </span>
                 </div>
