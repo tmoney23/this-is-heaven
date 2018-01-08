@@ -18,7 +18,7 @@
     <header class="navbar">
       <div class="container">
         <div class="navbar-brand">
-          <a class="navbar-item">
+          <a href="/" class="navbar-item">
             <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
           </a>
           <span class="navbar-burger burger" data-target="navbarMenuHeroC">
@@ -29,21 +29,15 @@
         </div>
         <div id="navbarMenuHeroC" class="navbar-menu">
           <div class="navbar-end">
-            <a class="navbar-item is-active">
-              Home
-            </a>
-            <a class="navbar-item">
-              Examples
-            </a>
-            <a class="navbar-item">
-              Documentation
-            </a>
+            <a href="/nouns" class="navbar-item is-active">nouns</a>
+            <a href="/travels" class="navbar-item">travels</a>
+            <a href="/prints" class="navbar-item">prints</a>
             <span class="navbar-item">
-              <a class="button is-success is-inverted">
+              <a href="https://instagram.com/thomasdmoore" class="button is-success is-inverted">
                 <span class="icon">
                   <i class="fa fa-instagram"></i>
                 </span>
-                <span>@thomasdmoore</span>
+                <span>thomasdmoore</span>
               </a>
             </span>
           </div>
@@ -62,8 +56,8 @@
           <li><a>Modifiers</a></li>
           <li><a>Grid</a></li>
           <li><a>Elements</a></li>
-          <li><a>Components</a></li>
-          <li><a>Layout</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/contact">Contact</a></li>
         </ul>
       </div>
     </nav>
