@@ -19,7 +19,12 @@
             <div class="container">
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
-                  <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
+                  <span class="icon">
+                    <i class="fa fa-plane"></i>
+                  </span>
+                  <span class="icon">
+                    <i class="fa fa-trademark"></i>
+                  </span>
                 </a>
                 <span class="navbar-burger burger" data-target="navbarMenuHeroC">
                   <span></span>
