@@ -21,9 +21,9 @@
         </div>
         <ul class="labels">
           <li class="label">help...</li>
-          <li class="label">Wander...</li>
-          <li class="label">Thrillseek...</li>
-          <li class="label">Adventure...</li>
+          <li class="label">help...</li>
+          <li class="label">help...</li>
+          <li class="label">help...</li>
         </ul>
       </div>
 
