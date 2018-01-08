@@ -87,7 +87,6 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  Contact me, people.
                 </div>
             </div>
 
