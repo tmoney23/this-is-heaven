@@ -61,7 +61,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ramblin' man
+                    persons, places, & things
                 </div>
                 <img src="/tmoney.jpg" width="30%" height="10%"/>
             </div>
