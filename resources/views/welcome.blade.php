@@ -9,6 +9,7 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="/css/app.css">
+        <link rel="stylesheet" href="/css/loading.css">
     </head>
     <body>
 
