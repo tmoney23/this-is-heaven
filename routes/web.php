@@ -30,3 +30,7 @@ Route::get('/about', function () {
 Route::get('/nouns', function () {
     return view('nouns');
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
