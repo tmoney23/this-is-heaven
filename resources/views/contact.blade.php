@@ -29,6 +29,10 @@
                   <span class="icon">
                     <i class="fa fa-car"></i>
                   </span>
+                </span>
+                <span class="text">
+                  <i class="never one for words"></i>
+                </span>
                 </a>
                 <span class="navbar-burger burger" data-target="navbarMenuHeroC">
                   <span></span>
