@@ -13,19 +13,7 @@
     </head>
     <body>
 
-      <div class="loader-box">
-        <div class="loader">
-          <div class="element-animation">
-          <img src="http://i57.tinypic.com/30dighv.png" width="500" height="100";>
-          </div>
-        </div>
-        <ul class="labels">
-          <li class="label">help...</li>
-          <li class="label">help...</li>
-          <li class="label">help...</li>
-          <li class="label">help...</li>
-        </ul>
-      </div>
+
 
         <div class="flex-center position-ref full-height">
 
