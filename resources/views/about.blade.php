@@ -63,7 +63,7 @@
                 <div class="title m-b-md">
                     ramblin' man
                 </div>
-                <img src="/tmoney.jpg" width="30%" height="10%"/>
+                <img src="/img/tmoney.jpg" width="30%" height="10%"/>
             </div>
         </div>
     </body>
