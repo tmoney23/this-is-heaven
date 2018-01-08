@@ -16,14 +16,14 @@
       <div class="loader-box">
         <div class="loader">
           <div class="element-animation">
-          <img src="http://i57.tinypic.com/30dighv.png" width="480" height="100";>
+          <img src="http://i57.tinypic.com/30dighv.png" width="500" height="100";>
           </div>
         </div>
         <ul class="labels">
-          <li class="label">Loading...</li>
-          <li class="label">Wandering...</li>
-          <li class="label">Thrillseeking...</li>
-          <li class="label">Adventuring...</li>
+          <li class="label">help...</li>
+          <li class="label">Wander...</li>
+          <li class="label">Thrillseek...</li>
+          <li class="label">Adventure...</li>
         </ul>
       </div>
 
