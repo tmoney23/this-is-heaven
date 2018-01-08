@@ -20,10 +20,20 @@
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
                   <span class="icon">
-                    <i class="fa fa-plane"></i>
                   </span>
                   <span class="icon">
                     <i class="fa fa-trademark"></i>
+                  </span>
+                    <i class="fa fa-plane"></i>
+                  </span>
+                  <span class="icon">
+                    <i class="fa fa-car"></i>
+                  </span>
+                  <span class="icon">
+                    <i class="fa fa-motorcycle"></i>
+                  </span>
+                  <span class="icon">
+                    <i class="fa fa-train"></i>
                   </span>
                 </a>
                 <span class="navbar-burger burger" data-target="navbarMenuHeroC">
