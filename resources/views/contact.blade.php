@@ -11,12 +11,11 @@
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="/css/app.css">
     </head>
-    <span>thomas d moore</span>
     <body>
       <section class="hero is-success is-fullheight has-bg-img">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
-          <header class="navbar">
+          <header class="navbar"><span>thomas d moore</span>
             <div class="container">
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
