@@ -16,6 +16,9 @@
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
+          </span>
+            <i class="thomas d moore"></i>
+          </span>
             <div class="container">
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
@@ -54,7 +57,7 @@
             </div>
           </header>
         </div>
-        
+
 
 
       </section>
