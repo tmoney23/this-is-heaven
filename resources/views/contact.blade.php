@@ -11,6 +11,7 @@
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="/css/app.css">
     </head>
+    <span>thomas d moore</span>
     <body>
       <section class="hero is-success is-fullheight has-bg-img">
         <!-- Hero head: will stick at the top -->
@@ -46,7 +47,7 @@
                       <span class="icon">
                         <i class="fa fa-paper-plane"></i>
                       </span>
-                      <span>thomas d moore</span>
+                      <span>contact</span>
                     </a>
                   </span>
                 </div>
