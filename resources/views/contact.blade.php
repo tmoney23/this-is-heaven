@@ -16,9 +16,6 @@
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
-          </span>
-            <i class="thomas d moore"></i>
-          </span>
             <div class="container">
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
@@ -49,7 +46,7 @@
                       <span class="icon">
                         <i class="fa fa-paper-plane"></i>
                       </span>
-                      <span>contact</span>
+                      <span>thomas d moore</span>
                     </a>
                   </span>
                 </div>
