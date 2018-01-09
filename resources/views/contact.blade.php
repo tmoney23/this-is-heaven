@@ -20,7 +20,6 @@
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
                   <span>thomas darnell moore</span>
-                  <span>photography</span>
                   <span class="icon">
                   </span>
                     <i class="fa fa-plane"></i>
@@ -33,6 +32,7 @@
                   </span>
                 </a>
                 <span class="navbar-burger burger" data-target="navbarMenuHeroC">
+                  <span>photography</span>
                   <span></span>
                   <span></span>
                   <span></span>
