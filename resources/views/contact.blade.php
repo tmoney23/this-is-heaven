@@ -18,10 +18,9 @@
           <header class="navbar">
             <div class="container">
               <div class="navbar-brand">
-
                   <span>thomas darnell moore | photography</span>
               </div>
-              <div id="navbarMenuHeroC" class="navbar-menu">
+              <div id="navbarMenuHeroC">
                 <div class="navbar-end">
                   <a href="/nouns" class="navbar-item is-active">nouns</a>
                   <a href="/travel journal" class="navbar-item">travels</a>
