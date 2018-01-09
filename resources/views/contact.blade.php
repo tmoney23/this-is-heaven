@@ -16,10 +16,10 @@
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
-          <span>thomas d moore</span>
             <div class="container">
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
+                  <span>thomas d moore</span>
                   <span class="icon">
                   </span>
                     <i class="fa fa-plane"></i>
