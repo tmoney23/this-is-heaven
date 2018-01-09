@@ -15,7 +15,8 @@
       <section class="hero is-success is-fullheight has-bg-img">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
-          <header class="navbar"><span>thomas d moore</span>
+          <header class="navbar">
+          <span>thomas d moore</span>
             <div class="container">
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
