@@ -12,13 +12,13 @@
   <link rel="stylesheet" type="text/css" href="../css/landing.css">
 </head>
 <body>
-  <section class="hero is-success is-fullheight .bg-img-black-church">
+  <section class="hero is-success is-fullheight bg-img-black-church">
     <div class="hero-head">
       <nav class="navbar">
         <div class="container">
           <div class="navbar-brand">
             <a class="navbar-item" href="../">
-              <img src="'/img/black-church.jpg'" alt="Logo">
+              <img src="'/img/black-church.jpg'">
             </a>
             <span class="navbar-burger burger" data-target="navbarMenu">
               <span></span>
