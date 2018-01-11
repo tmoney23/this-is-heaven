@@ -19,10 +19,10 @@
         <div class="container">
           <div class="navbar-brand">
             <a class="navbar-item" href="/">
-              <img src="Thomas Moore Photography" alt="Thomas Moore Photography">
+              <img src="http://bulma.io/images/bulma-type-white.png" alt="Thomas Moore Photography">
             </a>
             <span class="navbar-burger burger" data-target="navbarMenu">
-              <span></span>
+              <span>thomas</span>
               <span></span>
               <span></span>
             </span>
