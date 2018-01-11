@@ -25,6 +25,29 @@
               <span></span>
             </span>
           </div>
+          <div id="navbarMenu" class="navbar-menu">
+            <div class="navbar-end">
+              <a class="navbar-item is-active">
+                nouns
+              </a>
+              <a class="navbar-item">
+                travels
+              </a>
+              <a class="navbar-item">
+                prints
+              </a>
+              <span class="navbar-item">
+                <a class="button is-white is-outlined is-small" href="https://github.com/dansup/bulma-templates/blob/master/templates/landing.html">
+                  <span class="icon">
+                    <i class="fa fa-github"></i>
+                  </span>
+                  <span>View Source</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </nav>
     </div>
 
     <div class="hero-body">
