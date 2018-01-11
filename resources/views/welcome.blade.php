@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="../css/landing.css">
 </head>
 <body>
-  <section class="hero is-success is-fullheight bg-img-black-church">
+  <section class="hero is-success is-fullheight has-bg-img">
     <div class="hero-head">
       <nav class="navbar">
         <div class="container">
