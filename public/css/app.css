@@ -5,6 +5,11 @@
   background-size: cover;
 }
 
+.bg-img-chamonix {
+  background: url("/img/chamonix.jpg") center center;
+  background-size: cover;
+}
+
 .planePath {
   stroke: #D9DADA;
   stroke-width: .1%;
