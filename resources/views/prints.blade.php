@@ -5,20 +5,20 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Contact | Never One For Words</title>
+        <title>contact | tdm photography</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="/css/app.css">
     </head>
     <body>
-      <section class="hero is-success is-fullheight bg-img-northerslights">
+      <section class="hero is-success is-fullheight bg-img-black-church">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
             <div class="container">
               <div class="navbar-brand">
-                <a href="/" class="navbar-item">
+                <a href="/prints" class="navbar-item">
                   <span>thomas darnell moore | photography</span>
 
               </div>
