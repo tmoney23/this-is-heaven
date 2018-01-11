@@ -3,7 +3,6 @@
 <head>
   <div class="container is-fullhd">
   <div class="notification">
-    This container is <strong>fullwidth</strong> <em>until</em> the <code>$fullhd</code> breakpoint.
       <span>thomas darnell moore | photography</span>
   </div>
 </div>
