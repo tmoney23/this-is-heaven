@@ -1,57 +1,84 @@
-<!doctype html>
-<html lang="{{ app()->getLocale() }}">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<div class="field">
+  <label class="label">Name</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Text input">
+  </div>
+</div>
 
-        <title>Contact | Never One For Words</title>
+<div class="field">
+  <label class="label">Username</label>
+  <div class="control has-icons-left has-icons-right">
+    <input class="input is-success" type="text" placeholder="Text input" value="bulma">
+    <span class="icon is-small is-left">
+      <i class="fas fa-user"></i>
+    </span>
+    <span class="icon is-small is-right">
+      <i class="fas fa-check"></i>
+    </span>
+  </div>
+  <p class="help is-success">This username is available</p>
+</div>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="/css/app.css">
-    </head>
-    <body>
-      <section>
-        <!-- Hero head: will stick at the top -->
-        <div class="hero-head">
-          <header class="navbar">
-            <div class="container">
-              <div class="navbar-brand">
-                <a href="/" class="navbar-item">
-                  <span>thomas darnell moore | photography</span>
+<div class="field">
+  <label class="label">Email</label>
+  <div class="control has-icons-left has-icons-right">
+    <input class="input is-danger" type="email" placeholder="Email input" value="hello@">
+    <span class="icon is-small is-left">
+      <i class="fas fa-envelope"></i>
+    </span>
+    <span class="icon is-small is-right">
+      <i class="fas fa-exclamation-triangle"></i>
+    </span>
+  </div>
+  <p class="help is-danger">This email is invalid</p>
+</div>
 
-              </div>
-              <div id="navbarMenuHeroC" class="navbar-menu">
-                <div class="navbar-end">
-                  <a href="/nouns" class="navbar-item is-active">nouns</a>
-                  <a href="/travels" class="navbar-item">travels</a>
-                  <a href="/prints" class="navbar-item">prints</a>
-                  <span class="navbar-item">
-                    <a href="/contact" class="button is-success is-inverted">
-                      <span class="icon">
-                        <i class="fa fa-paper-plane"></i>
-                      </span>
-                      <span>contact</span>
-                    </a>
-                  </span>
-                </div>
-              </div>
-            </div>
-          </header>
-        </div>
+<div class="field">
+  <label class="label">Subject</label>
+  <div class="control">
+    <div class="select">
+      <select>
+        <option>Select dropdown</option>
+        <option>With options</option>
+      </select>
+    </div>
+  </div>
+</div>
 
+<div class="field">
+  <label class="label">Message</label>
+  <div class="control">
+    <textarea class="textarea" placeholder="Textarea"></textarea>
+  </div>
+</div>
 
+<div class="field">
+  <div class="control">
+    <label class="checkbox">
+      <input type="checkbox">
+      I agree to the <a href="#">terms and conditions</a>
+    </label>
+  </div>
+</div>
 
-      </section>
+<div class="field">
+  <div class="control">
+    <label class="radio">
+      <input type="radio" name="question">
+      Yes
+    </label>
+    <label class="radio">
+      <input type="radio" name="question">
+      No
+    </label>
+  </div>
+</div>
 
-        <div class="flex-center position-ref full-height">
-
-            <div class="content">
-                <div class="title m-b-md">
-                </div>
-            </div>
-
-        </div>
-    </body>
-</html>
+<div class="field is-grouped">
+  <div class="control">
+    <button class="button is-link">Submit</button>
+  </div>
+  <div class="control">
+    <button class="button is-text">Cancel</button>
+  </div>
+</div>
