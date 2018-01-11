@@ -61,7 +61,6 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ramblin' man
                 </div>
                 <img src="/img/tmoney.jpg" width="30%" height="10%"/>
             </div>
