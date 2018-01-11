@@ -71,7 +71,7 @@
             <div class="content">
                 <div class="title m-b-md">
                 </div>
-                <img src="/img/tmoney.jpg" width="30%" height="10%"/>
+                <img src="/img/church.jpg" width="30%" height="10%"/>
             </div>
         </div>
     </body>
