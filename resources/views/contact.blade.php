@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>nouns | Never One For Words</title>
+        <title>Contact | Never One For Words</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
@@ -18,12 +18,14 @@
           <header class="navbar">
             <div class="container">
               <div class="navbar-brand">
+                <a href="/" class="navbar-item">
                   <span>thomas darnell moore | photography</span>
+
               </div>
               <div id="navbarMenuHeroC" class="navbar-menu">
                 <div class="navbar-end">
                   <a href="/nouns" class="navbar-item is-active">nouns</a>
-                  <a href="/travel journal" class="navbar-item">travels</a>
+                  <a href="/travels" class="navbar-item">travels</a>
                   <a href="/prints" class="navbar-item">prints</a>
                   <span class="navbar-item">
                     <a href="/contact" class="button is-success is-inverted">
