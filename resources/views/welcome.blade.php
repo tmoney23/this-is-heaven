@@ -17,14 +17,13 @@
   <link rel="stylesheet" type="text/css" href="../css/landing.css">
 </head>
 <body>
-  <section class="hero is-success is-fullheight bg-img-northernlights">
+  <section class="hero is-success is-fullhd bg-img-northernlights">
     <!-- Hero head: will stick at the top -->
     <div class="hero-head">
       <header class="navbar">
         <div class="container">
           <div class="navbar-brand">
             <a href="/">
-              <span>thomas darnell moore | photography</span>
               <span></span>
               <span></span>
               <span></span>
