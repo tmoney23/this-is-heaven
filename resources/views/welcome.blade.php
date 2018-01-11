@@ -24,14 +24,7 @@
               </div>
               <div id="navbarMenuHeroC" class="navbar-menu">
                 <div class="navbar-end">
-                  <nav class="breadcrumb is-small" aria-label="breadcrumbs">
-                    <ul>
-                      <li><a href="/nouns">nouns</a></li>
-                      <li><a href="/travels">travels</a></li>
-                      <li><a href="/prints">prints</a></li>
-                      <li class="is-active"><a href="#" aria-current="page">Breadcrumb</a></li>
-                    </ul>
-                  </nav>
+                  </nav class="breadcrumb is-medium" aria-label="breadcrumbs">
                   <a href="/nouns" class="navbar-item is-active">nouns</a>
                   <a href="/travels" class="navbar-item">travels</a>
                   <a href="/prints" class="navbar-item">prints</a>
