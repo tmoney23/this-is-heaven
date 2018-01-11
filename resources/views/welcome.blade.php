@@ -25,16 +25,15 @@
               <span></span>
             </span>
           </div>
-          <div <div id="navbarMenuHeroC" class="navbar-menu">
+          <div id="navbarMenuHeroC" class="navbar-menu">
             <div class="navbar-end">
-              <a class="navbar-item is-active">
-                nouns
-              </a>
-              <a class="navbar-item">
-                travels
-              </a>
-              <a class="navbar-item">
-                prints
+              <a href="/nouns" class="navbar-item is-active">nouns</a>
+              <a href="/travels" class="navbar-item">travels</a>
+              <a href="/prints" class="navbar-item">prints</a>
+              <span class="navbar-item">
+                <a href="/contact" class="button is-success is-inverted">
+                  <span class="icon">
+                    <i class="fa fa-paper-plane"></i>
               </a>
               <span class="navbar-item">
                 <a class="button is-white is-outlined is-small" href="https://github.com/dansup/bulma-templates/blob/master/templates/landing.html">
