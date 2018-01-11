@@ -20,6 +20,11 @@
   background-size: cover;
 }
 
+.bg-img-horses-mountains {
+  background: url("/img/horses-mountains.jpg") center center;
+  background-size: cover;
+}
+
 .planePath {
   stroke: #D9DADA;
   stroke-width: .1%;
