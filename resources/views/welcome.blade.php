@@ -19,7 +19,7 @@
         <div class="container">
           <div class="navbar-brand">
             <a class="navbar-item" href="/">
-              <img src="http://bulma.io/images/bulma-type-white.png" alt="Logo">
+              <img alt="Thomas Moore Photography">
             </a>
             <span class="navbar-burger burger" data-target="navbarMenu">
               <span></span>
