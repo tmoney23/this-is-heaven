@@ -17,7 +17,7 @@
   <link rel="stylesheet" type="text/css" href="../css/landing.css">
 </head>
 <body>
-  <section class="hero is-success is-fullheight\\ bg-img-northernlights">
+  <section class="hero is-success is-fulllength\\ bg-img-northernlights">
     <!-- Hero head: will stick at the top -->
     <div class="hero-head">
       <header class="navbar">
