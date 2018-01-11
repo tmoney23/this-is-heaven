@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <div class="container is-fullhd">
+  <div class="notification">
+    This container is <strong>fullwidth</strong> <em>until</em> the <code>$fullhd</code> breakpoint.
+      <span>thomas darnell moore | photography</span>
+  </div>
+</div>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
