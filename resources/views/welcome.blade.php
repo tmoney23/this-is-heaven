@@ -12,16 +12,14 @@
   <link rel="stylesheet" type="text/css" href="../css/landing.css">
 </head>
 <body>
-  <section class="hero is-sucess is-fullheight bg-img-black-church">
+  <section class="hero is-success is-fullheight bg-img-northerslights">
     <!-- Hero head: will stick at the top -->
     <div class="hero-head">
-      <nav class="navbar">
+      <header class="navbar">
         <div class="container">
           <div class="navbar-brand">
-            <a class="navbar-item" href="/">
-              <img src="http://bulma.io/images/bulma-type-white.png" alt="Thomas Moore Photography">
-            </a>
-            <span class="navbar-burger burger" data-target="navbarMenu">
+            <a href="/" class="navbar-item">
+              <span>thomas darnell moore | photography</span>
               <span></span>
               <span></span>
               <span></span>
