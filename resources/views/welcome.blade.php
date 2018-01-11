@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="../css/landing.css">
 </head>
 <body>
-  <section class="hero is-info is-fullheight bg-img-northerslights">
+  <section class="hero is-sucess is-fullheight bg-img-black-church">
     <!-- Hero head: will stick at the top -->
     <div class="hero-head">
       <nav class="navbar">
@@ -22,7 +22,7 @@
               <img src="http://bulma.io/images/bulma-type-white.png" alt="Thomas Moore Photography">
             </a>
             <span class="navbar-burger burger" data-target="navbarMenu">
-              <span>thomas</span>
+              <span></span>
               <span></span>
               <span></span>
             </span>
