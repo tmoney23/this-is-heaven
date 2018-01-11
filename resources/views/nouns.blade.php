@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="/css/app.css">
     </head>
     <body>
-      <section class=.bg-img { northernlights }
+      <section class= .bg-img { northernlights }
             background-image: url(northernlights.jpg) ;
             background-position: center center;
             background-repeat:  no-repeat;
