@@ -63,7 +63,7 @@
             <div class="content">
                 <div class="title m-b-md">
                 </div>
-                <img src="/img/chamonix.jpg" width="100%" height="100%"/>
+                <img src="/img/hotpool.jpg" width="50%" height="20%"/>
             </div>
         </div>
     </body>

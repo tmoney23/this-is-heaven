@@ -10,6 +10,11 @@
   background-size: cover;
 }
 
+.bg-img-hotpool {
+  background: url("/img/hotpool.jpg") center center;
+  background-size: cover;
+}
+
 .planePath {
   stroke: #D9DADA;
   stroke-width: .1%;
