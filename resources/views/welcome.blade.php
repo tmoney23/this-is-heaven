@@ -24,6 +24,7 @@
               </div>
               <div id="navbarMenuHeroC" class="navbar-menu">
                 <div class="navbar-end">
+                  <nav class="breadcrumb is-small" aria-label="breadcrumbs">
                   <a href="/nouns" class="navbar-item is-active">nouns</a>
                   <a href="/travels" class="navbar-item">travels</a>
                   <a href="/prints" class="navbar-item">prints</a>
