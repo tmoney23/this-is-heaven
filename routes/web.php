@@ -23,8 +23,8 @@ Route::get('/travels', function () {
     return view('travels');
 });
 
-Route::get('/about', function () {
-    return view('about');
+Route::get('/prints', function () {
+    return view('prints');
 });
 
 Route::get('/nouns', function () {
