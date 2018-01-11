@@ -4,21 +4,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Landing - thomas</title>
+  <title>Landing-thomas</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet">
   <!-- Bulma Version 0.6.0 -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css" integrity="sha256-HEtF7HLJZSC3Le1HcsWbz1hDYFPZCqDhZa9QsCgVUdw=" crossorigin="anonymous" />
   <link rel="stylesheet" type="text/css" href="../css/landing.css">
 </head>
 <body>
-  <section class="hero is-success is-fullheight has-bg-img">
+  <section class="hero is-info is-fullheight bg-img-northerslights">
+    <!-- Hero head: will stick at the top -->
     <div class="hero-head">
       <nav class="navbar">
         <div class="container">
           <div class="navbar-brand">
-            <a class="navbar-item" href="/img/black-church.jpg">
-              <img src="'/img/black-church.jpg'">
+            <a class="navbar-item" href="/">
+              <img src="http://bulma.io/images/bulma-type-white.png" alt="Logo">
             </a>
             <span class="navbar-burger burger" data-target="navbarMenu">
               <span></span>
@@ -29,13 +30,13 @@
           <div id="navbarMenu" class="navbar-menu">
             <div class="navbar-end">
               <a class="navbar-item is-active">
-                Home
+                nouns
               </a>
               <a class="navbar-item">
-                Examples
+                travels
               </a>
               <a class="navbar-item">
-                Documentation
+                prints
               </a>
               <span class="navbar-item">
                 <a class="button is-white is-outlined is-small" href="https://github.com/dansup/bulma-templates/blob/master/templates/landing.html">
