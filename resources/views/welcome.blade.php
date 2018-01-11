@@ -19,7 +19,7 @@
         <div class="container">
           <div class="navbar-brand">
             <a class="navbar-item" href="/">
-              <img alt="Thomas Moore Photography">
+              <img src="Thomas Moore Photography" alt="Thomas Moore Photography">
             </a>
             <span class="navbar-burger burger" data-target="navbarMenu">
               <span></span>
