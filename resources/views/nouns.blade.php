@@ -12,13 +12,7 @@
         <link rel="stylesheet" href="/css/app.css">
     </head>
     <body>
-      <section class= .bg-img { northernlights }
-            background-image: url(northernlights.jpg) ;
-            background-position: center center;
-            background-repeat:  no-repeat;
-            background-attachment: fixed;
-            background-size:  cover;
-            background-color: #999;
+      <section class="hero is-success is-fullheight bg-img-northernlights">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
@@ -61,12 +55,3 @@
         </div>
     </body>
 </html>
-.bg-img {
-      background-image: url(demo.jpg) ;
-      background-position: center center;
-      background-repeat:  no-repeat;
-      background-attachment: fixed;
-      background-size:  cover;
-      background-color: #999;
-
-}
