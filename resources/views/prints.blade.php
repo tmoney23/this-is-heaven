@@ -63,7 +63,7 @@
             <div class="content">
                 <div class="title m-b-md">
                 </div>
-                <img src="/img/horses-mountains.jpg" width="85%" height="10%"/>
+                <img src="/img/horses-mountains.jpg" width="80%" height="10%"/>
             </div>
         </div>
     </body>
