@@ -21,7 +21,7 @@
                 font-family: 'Libre Baskerville', serif;
                 font-weight: 100;
                 height: 100vh;
-                margin: 0;
+                margin: 10;
             }
 
             .full-height {
@@ -63,7 +63,7 @@
             <div class="content">
                 <div class="title m-b-md">
                 </div>
-                <img src="/img/horses-mountains.jpg" width="80%" height="10%"/>
+                <img src="/img/black-church.jpg" width="50%" height="5%"/>
             </div>
         </div>
     </body>
