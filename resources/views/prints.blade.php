@@ -4,8 +4,17 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <nav class="breadcrumb is-right" aria-label="breadcrumbs">
+        <ul>
+          <li><a href="#">Bulma</a></li>
+          <li><a href="#">Documentation</a></li>
+          <li><a href="#">Components</a></li>
+          <li class="is-active"><a href="#" aria-current="page">Breadcrumb</a></li>
+        </ul>
+      </nav>
 
         <title>About | Never One For Words</title>
+
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
