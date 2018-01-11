@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="/css/app.css">
     </head>
     <body>
-      <section class="hero is-success is-fullheight bg-img-church">
+      <section class="hero is-success is-fullheight bg-img-northernlights">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
