@@ -2,12 +2,12 @@
 
 <div class="flex-center position-ref full-height">
   <label class="label">Name</label>
-  <div class=""flex-center">
+  <div class="control">
     <input class="input" type="text" placeholder="Text input">
   </div>
 </div>
 
-<div class="field">
+<div class="field"> <div class="flex-center position-ref full-height">
   <label class="label">Username</label>
   <div class="control has-icons-left has-icons-right">
     <input class="input is-success" type="text" placeholder="Text input" value="bulma">
