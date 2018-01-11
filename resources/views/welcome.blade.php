@@ -15,11 +15,11 @@
   <section class="hero is-success is-fullheight bg-img-northernlights">
     <!-- Hero head: will stick at the top -->
     <div class="hero-head">
+      <a href="/" class="navbar-item">
+        <span>thomas darnell moore | photography</span>
       <header class="navbar">
         <div class="container">
           <div class="navbar-brand">
-            <a href="/" class="navbar-item">
-              <span>thomas darnell moore | photography</span>
               <span></span>
               <span></span>
               <span></span>
@@ -27,6 +27,7 @@
           </div>
           <div id="navbarMenuHeroC" class="navbar-menu">
             <div class="navbar-end">
+              <a href="/" class="navbar-item">home</a>
               <a href="/nouns" class="navbar-item">nouns</a>
               <a href="/travels" class="navbar-item">travels</a>
               <a href="/prints" class="navbar-item">prints</a>
