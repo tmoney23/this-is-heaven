@@ -34,6 +34,8 @@
                 <a href="/contact" class="button is-success is-inverted">
                   <span class="icon">
                     <i class="fa fa-paper-plane"></i>
+                  </span>
+                  <span>contact</span>
               </a>
               <span class="navbar-item">
                 <a class="button is-white is-outlined is-small" href="https://github.com/dansup/bulma-templates/blob/master/templates/landing.html">
