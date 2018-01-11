@@ -2,8 +2,7 @@
 <html>
 <head>
   <div class="container is-fullhd">
-  <div class="notification">
-<span><span><span>thomas darnell moore | photography</span><span><span>
+  <div class="notification"><span><span><span>thomas darnell moore | photography</span><span><span>
   </div>
 </div>
   <meta charset="utf-8">
