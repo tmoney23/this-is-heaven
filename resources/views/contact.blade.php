@@ -1,4 +1,6 @@
-<div class="field">
+
+
+<div class="flex-center position-ref full-height">
   <label class="label">Name</label>
   <div class="control">
     <input class="input" type="text" placeholder="Text input">
