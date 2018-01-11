@@ -2,7 +2,7 @@
 
 <div class="flex-center position-ref full-height">
   <label class="label">Name</label>
-  <div class="control">
+  <div class=""flex-center">
     <input class="input" type="text" placeholder="Text input">
   </div>
 </div>
