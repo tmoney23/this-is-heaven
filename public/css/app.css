@@ -1,7 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);@charset "UTF-8";
 
-.has-bg-img {
+.bg-img-northerslights {
   background: url("/img/northernlights.jpg") center center;
+  background-size: cover;
+}
+
+.bg-img-horses {
+  background: url("/img/horses.jpg") center center;
   background-size: cover;
 }
 
