@@ -154,7 +154,7 @@
     <div class="content">
         <div class="title m-b-md">
         </div>
-        <img src="/img/iceland-lighthouse.jpg" width="90%" height="50%"/>
+        <img src="/img/iceland-lighthouse.jpg" width="100%" height="50%"/>
     </div>
 </div>
 </body>
