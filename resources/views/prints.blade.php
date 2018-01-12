@@ -12,12 +12,7 @@
         <link rel="stylesheet" href="/css/app.css">
     </head>
     <body>
-      <section class="flex-center position-ref full-height">
-        <div class="content">
-            <div class="title m-b-md">
-            </div>
-            <img src="/img/horses-mountains.jpg" width="100%" height="50%"/>
-        </div>
+      <section class="hero is-success is-fullheight bg-img-horses-mountains">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
