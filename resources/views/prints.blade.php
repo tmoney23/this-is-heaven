@@ -9,7 +9,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:200,600" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="/css/app.css">
+        <link rel="stylesheet" href="$grey-lighter">
     </head>
     <body>
       <section class="hero is-success is-fullhd bg-img-northernlights">
