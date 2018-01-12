@@ -9,7 +9,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:200,600" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="$grey-lighter">
+        <link rel="stylesheet" href="/css/app.css" href="$grey-lighter">
     </head>
     <body>
       <section class="hero is-success is-fullhd bg-img-northernlights">
@@ -22,7 +22,7 @@
                   <span>thomas darnell moore | photography</span>
 
               </div>
-              <div id="navbarMenuHeroA" class="navbar-menu">
+              <div id="navbarMenuHeroC" class="navbar-menu">
                 <div class="navbar-end">
                   <a href="/" class="navbar-item">home</a>
                   <a href="/nouns" class="navbar-item">nouns</a>
