@@ -30,6 +30,11 @@
   background-size: cover;
 }
 
+.bg-img-kotormontenegro {
+  background: url("/img/kotormontenegro.jpg") center center;
+  background-size: cover;
+}
+
 .planePath {
   stroke: #D9DADA;
   stroke-width: .1%;
