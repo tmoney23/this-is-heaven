@@ -35,6 +35,16 @@
   background-size: cover;
 }
 
+.bg-img-atlanta-sunrise {
+  background: url("/img/atlanta-sunrise.jpg") center center;
+  background-size: cover;
+}
+
+.bg-img-pig {
+  background: url("/img/pig.jpg") center center;
+  background-size: cover;
+}
+
 .planePath {
   stroke: #D9DADA;
   stroke-width: .1%;
