@@ -29,7 +29,7 @@
                   <a href="/travels" class="navbar-item">travels</a>
                   <a href="/prints" class="navbar-item">prints</a>
                   <span class="navbar-item">
-                    <a href="/contact" class="button is-success is-inverted">
+                    <a href="/contact" class="button is-success">
                       <span class="icon">
                         <i class="fa fa-paper-plane"></i>
                       </span>
