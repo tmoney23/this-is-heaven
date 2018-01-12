@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>contact | tdm photography</title>
+        <title>prints | tdm photograph</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
@@ -87,7 +87,7 @@
         <div class="content">
             <div class="title m-b-md">
             </div>
-            <img src="/img/kotormontenegro.jpg" width="50%" height="30%"/><img src="/img/tobaccoo-barn.jpg" width="50%" height="40%"/>
+            <img src="/img/kotormontenegro.jpg" width="30%" height="30%"/><img src="/img/tobaccoo-barn.jpg" width="50%" height="40%"/>
         </div>
     </div>
 </body>
@@ -137,7 +137,7 @@
     <div class="content">
         <div class="title m-b-md">
         </div>
-        <img src="/img/borg-beer.jpg" width="50%" height="50%"/><img src="/img/hotpool.jpg" width="50%" height="50%"/>
+        <img src="/img/borg-beer.jpg" width="45%" height="50%"/><img src="/img/hotpool.jpg" width="50%" height="50%"/>
     </div>
 </div>
 </body>
