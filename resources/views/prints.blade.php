@@ -87,7 +87,7 @@
         <div class="content">
             <div class="title m-b-md">
             </div>
-            <img src="/img/kotormontenegro.jpg" width="100%" height="50%"/>
+            <img src="/img/kotormontenegro.jpg" width="50%" height="50%"/>
         </div>
     </div>
 </body>
@@ -132,7 +132,7 @@
 </html>
 </body>
 </html>
-<div class="flex-right position-ref half-height"><div class="flex-left position-ref half-height">
+<div class="flex-right position-ref half-height"><span><div class="flex-left position-ref half-height">
 
     <div class="content">
         <div class="title m-b-md">
