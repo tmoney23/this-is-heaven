@@ -64,45 +64,6 @@
 
         <!-- Styles -->
         <style>
-            html, body {
-                background-color: #F4F6F7;
-                color: #bbc4ef;
-                font-family: 'Libre Baskerville', serif;
-                font-weight: 100;
-                height: 100vh;
-                margin: 10;
-            }
-
-            .full-height {
-                height: 100vh;
-            }
-
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
-            }
-
-            .position-ref {
-                position: relative;
-            }
-
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
-
-            .content {
-                text-align: center;
-            }
-
-            .title {
-                font-size: 65px;
-            }
-
-            .m-b-md {
-                margin-bottom: 30px;
             }
         </style>
     </head>
@@ -114,7 +75,7 @@
             <div class="content">
                 <div class="title m-b-md">
                 </div>
-                <img src="/img/black-church.jpg" width="50%" height="5%"/>
+                <img src="/img/black-church.jpg" width="100%" height="50%"/>
             </div>
         </div>
     </body>
