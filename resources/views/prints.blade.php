@@ -132,12 +132,12 @@
 </html>
 </body>
 </html>
-<div class="flex-center position-ref full-height">
+<div class="flex-right position-ref half-height">
 
     <div class="content">
         <div class="title m-b-md">
         </div>
-        <img src="/img/borg-beer.jpg" width="100%" height="50%"/>
+        <img src="/img/borg-beer.jpg" width="50%" height="50%"/>
     </div>
 </div>
 </body>
