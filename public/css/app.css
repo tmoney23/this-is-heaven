@@ -45,6 +45,21 @@
   background-size: cover;
 }
 
+.bg-img-finnemore {
+  background: url("/img/finnemore.jpg") center center;
+  background-size: cover;
+}
+
+.bg-img-tobbacco-barn {
+  background: url("/img/tobbacco-barn.jpg") center center;
+  background-size: cover;
+}
+
+.bg-img-borg-beer {
+  background: url("/img/borg-beer.jpg") center center;
+  background-size: cover;
+}
+
 .planePath {
   stroke: #D9DADA;
   stroke-width: .1%;
