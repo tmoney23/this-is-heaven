@@ -8,7 +8,7 @@
         <title>prints | tdm photograph</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:100,600" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:200,600" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="/css/app.css">
     </head>
     <body>
@@ -22,14 +22,14 @@
                   <span>thomas darnell moore | photography</span>
 
               </div>
-              <div id="navbarMenuHeroC" class="navbar-menu">
+              <div id="navbarMenuHeroA" class="navbar-menu">
                 <div class="navbar-end">
                   <a href="/" class="navbar-item">home</a>
                   <a href="/nouns" class="navbar-item">nouns</a>
                   <a href="/travels" class="navbar-item">travels</a>
                   <a href="/prints" class="navbar-item">prints</a>
                   <span class="navbar-item">
-                    <a href="/contact" class="button is-success">
+                    <a href="/contact" class="button is-success is-inverted">>
                       <span class="icon">
                         <i class="fa fa-paper-plane"></i>
                       </span>
@@ -87,7 +87,7 @@
         <div class="content">
             <div class="title m-b-md">
             </div>
-            <img src="/img/kotormontenegro.jpg" width="30%" height="30%"/><img src="/img/tobaccoo-barn.jpg" width="50%" height="40%"/>
+            <img src="/img/kotormontenegro.jpg" width="40%" height="38%"/><img src="/img/tobaccoo-barn.jpg" width="70%" height="40%"/>
         </div>
     </div>
 </body>
