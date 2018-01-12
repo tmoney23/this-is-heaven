@@ -60,6 +60,11 @@
   background-size: cover;
 }
 
+.bg-img-iceland-lighthouse {
+  background: url("/img/iceland-lighthouse.jpg") center center;
+  background-size: cover;
+}
+
 .planePath {
   stroke: #D9DADA;
   stroke-width: .1%;

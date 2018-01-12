@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="/css/app.css">
     </head>
     <body>
-      <section class="hero is-success is-fullhd bg-img-horses-mountains">
+      <section class="hero is-success is-fullhd bg-img-northernlights.jpg">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
@@ -138,6 +138,23 @@
         <div class="title m-b-md">
         </div>
         <img src="/img/borg-beer.jpg" width="45%" height="50%"/><img src="/img/hotpool.jpg" width="50%" height="50%"/>
+    </div>
+</div>
+</body>
+</html>
+</div>
+</body>
+</html>
+</body>
+</html>
+</body>
+</html>
+<div class="flex-right position-ref half-height"><span><div class="flex-left position-ref half-height">
+
+    <div class="content">
+        <div class="title m-b-md">
+        </div>
+        <img src="/img/iceland-lighthouse.jpg" width="90%" height="50%"/>
     </div>
 </div>
 </body>
