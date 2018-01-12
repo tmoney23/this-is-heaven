@@ -12,7 +12,12 @@
         <link rel="stylesheet" href="/css/app.css">
     </head>
     <body>
-      <section class="hero is-success is-fullheight bg-img-horses-mountains">
+      <section class="flex-center position-ref full-height">
+        <div class="content">
+            <div class="title m-b-md">
+            </div>
+            <img src="/img/horses-mountains.jpg" width="100%" height="50%"/>
+        </div>
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
@@ -75,7 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                 </div>
-                <img src="/img/black-church.jpg" width="80%" height="50%"/>
+                <img src="/img/black-church.jpg" width="100%" height="50%"/>
             </div>
         </div>
     </body>
@@ -89,7 +94,7 @@
         <div class="content">
             <div class="title m-b-md">
             </div>
-            <img src="/img/kotormontenegro.jpg" width="80%" height="50%"/>
+            <img src="/img/kotormontenegro.jpg" width="100%" height="50%"/>
         </div>
     </div>
 </body>
@@ -99,7 +104,7 @@
     <div class="content">
         <div class="title m-b-md">
         </div>
-        <img src="/img/atlanta-sunrise.jpg" width="80%" height="50%"/>
+        <img src="/img/atlanta-sunrise.jpg" width="100%" height="50%"/>
     </div>
 </div>
 </body>
