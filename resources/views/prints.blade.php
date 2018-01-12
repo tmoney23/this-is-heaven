@@ -87,7 +87,7 @@
         <div class="content">
             <div class="title m-b-md">
             </div>
-            <img src="/img/kotormontenegro.jpg" width="50%" height="40%"/><img src="/img/tobaccoo-barn.jpg" width="50%" height="40%"/>
+            <img src="/img/kotormontenegro.jpg" width="50%" height="30%"/><img src="/img/tobaccoo-barn.jpg" width="50%" height="40%"/>
         </div>
     </div>
 </body>
