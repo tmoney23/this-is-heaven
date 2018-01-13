@@ -65,6 +65,16 @@
   background-size: cover;
 }
 
+.bg-img-grass {
+  background: url("/img/grass.jpg") center center;
+  background-size: cover;
+}
+
+.bg-img-3horses {
+  background: url("/img/3horses.jpg") center center;
+  background-size: cover;
+}
+
 .planePath {
   stroke: #D9DADA;
   stroke-width: .1%;

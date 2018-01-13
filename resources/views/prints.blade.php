@@ -137,7 +137,7 @@
     <div class="content">
         <div class="title m-b-md">
         </div>
-        <img src="/img/borg-beer.jpg" width="45%" height="50%"/><img src="/img/hotpool.jpg" width="50%" height="50%"/>
+        <img src="/img/borg-beer.jpg" width="45%" height="50%"/><img src="/img/hotpool.jpg" width="50%" height="100%"/>
     </div>
 </div>
 </body>
@@ -156,6 +156,57 @@
         </div>
         <img src="/img/iceland-lighthouse.jpg" width="100%" height="50%"/>
     </div>
+</div>
+</body>
+</html>
+<div class="content">
+    <div class="title m-b-md">
+    </div>
+    <img src="/img/borg-beer.jpg" width="45%" height="50%"/><img src="/img/hotpool.jpg" width="50%" height="100%"/>
+</div>
+</div>
+</body>
+</html>
+</div>
+</body>
+</html>
+</body>
+</html>
+</body>
+</html>
+<div class="flex-right position-ref flexheight">
+
+<div class="content">
+    <div class="title m-b-md">
+    </div>
+    <img src="/img/grass.jpg" width="100%" height="50%"/>
+</div>
+</div>
+</body>
+</html>
+
+<div class="content">
+    <div class="title m-b-md">
+    </div>
+    <img src="/img/borg-beer.jpg" width="45%" height="50%"/><img src="/img/hotpool.jpg" width="50%" height="100%"/>
+</div>
+</div>
+</body>
+</html>
+</div>
+</body>
+</html>
+</body>
+</html>
+</body>
+</html>
+<div class="flex-right position-ref half-height"><span><div class="flex-left position-ref half-height">
+
+<div class="content">
+    <div class="title m-b-md">
+    </div>
+    <img src="/img/3horses.jpg" width="100%" height="50%"/>
+</div>
 </div>
 </body>
 </html>
