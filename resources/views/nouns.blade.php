@@ -19,7 +19,7 @@
             <div class="container">
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
-                  <span>thomas darnell moore | photography</span>
+                  <span>thomas darnell moore | photograph</span>
 
               </div>
               <div id="navbarMenuHeroC" class="navbar-menu">
