@@ -1,4 +1,6 @@
 <!doctype html>
+$ cd themes
+$ git clone https://github.com/sethmacleod/aerial.git
 <html lang="{{ app()->getLocale() }}">
     <head>
         <meta charset="utf-8">
@@ -19,7 +21,7 @@
             <div class="container">
               <div class="navbar-brand">
                 <a href="/" class="navbar-item">
-                  <span>thomas darnell moore | photograph</span>
+                  <span>thomas darnell moore | photography</span>
 
               </div>
               <div id="navbarMenuHeroC" class="navbar-menu">
