@@ -1,6 +1,4 @@
 <!doctype html>
-$ cd themes
-$ git clone https://github.com/sethmacleod/aerial.git
 <html lang="{{ app()->getLocale() }}">
     <head>
         <meta charset="utf-8">
