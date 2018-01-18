@@ -86,10 +86,10 @@
             </figure>
           </div>
           <div class="column is-2 is-left-1">
-            <h1 class="title is-2">
+            <h1 class="subtitle is-2">
               Horse Farms in Midway, KY
             </h1>
-            <h2 class="title is-2 is-left-2">
+            <h2 class="subtitle is-5 is-left-1">
               12.15.2017
             </h2>
             <br>
