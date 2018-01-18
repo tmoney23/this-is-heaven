@@ -23,6 +23,7 @@
         <div class="navbar-brand">
           <a class="navbar-item" href="../">
             <span>thomas darnell moore<span>
+              <span>photography<span>
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
             <span>thomas darnell moore</span>
