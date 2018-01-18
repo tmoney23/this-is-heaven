@@ -69,7 +69,7 @@
             </h2>
             <br>
             <p class="has-text-centered">
-              <a class="button is-medium is-info is-outlined">
+              <a class="button is-medium is-info is-outlined is active">
                 Learn more
               </a>
             </p>
