@@ -56,7 +56,7 @@
       <div class="container has-text-centered">
         <div class="columns is-vcentered">
           <div class="column is-5">
-            <figure class="image is-4by4">
+            <figure class="image is-4by3">
               <img src="/img/black-church.jpg" alt="black church">
             </figure>
           </div>
