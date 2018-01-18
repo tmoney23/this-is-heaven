@@ -16,23 +16,13 @@
   </style>
 </head>
 <body>
-  <section class="hero is-fullheight is-mobile is-multiline is-default is-bold">
+  <section class="hero is-fullheight is mobile is-multiline is-default is-bold">
   <div class="hero-head">
-    </p>
-  </div>
-  <div class="column is-narrow">
-    <p class="bd-notification is-success">
-      <code class="html">thomas d moore/code><br>
-    </p>
-  </div>
-  <div class="column is-narrow">
-    <p class="bd-notification is-danger">
-      <code class="html">photography</code><br>
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item" href="../">
-            <span><span>
+            <span>thomas darnell moore | photography<span>
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
             <span>thomas darnell moore</span>
@@ -67,7 +57,7 @@
         <div class="columns is-vcentered">
           <div class="column is-5">
             <figure class="image is-4by3">
-              <img src="http://placehold.it/800x600" alt="Description">
+              <img src="midwayhorses.img" alt="Description">
             </figure>
           </div>
           <div class="column is-6 is-offset-1">
