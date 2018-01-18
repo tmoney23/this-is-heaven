@@ -16,14 +16,13 @@
   </style>
 </head>
 <body>
-  <section class="hero is-fullheight is-default is-bold">
+  <section class="hero is-fullheight is mobile is-multiline is-default is-bold">
   <div class="hero-head">
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item" href="../">
-            <span>thomas darnell moore<span>
-              <span>photography<span>
+            <span>thomas darnell moore | photography<span>
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
             <span>thomas darnell moore</span>
