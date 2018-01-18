@@ -22,11 +22,11 @@
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item" href="../">
-            <img src="../images/bulma.png" alt="Logo">
+            <img src="../thomas darnell moore">
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
-            <span>thomas darnell moore </span>
-            <span>photography</span>
+            <span>thomas darnell moore</span>
+            <span></span>
             <span></span>
           </span>
         </div>
