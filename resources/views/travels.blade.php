@@ -57,7 +57,7 @@
         <div class="columns is-vcentered">
           <div class="column is-5">
             <figure class="image is-4by3">
-              <img src="midwayhorses.img" alt="Description">
+              <img src="/img/black-church.jpg" alt="Midway KY">
             </figure>
           </div>
           <div class="column is-6 is-offset-1">
