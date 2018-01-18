@@ -87,11 +87,11 @@
               <img src="/img/midwayhorses.jpg" alt="hey">
             </figure>
           </div>
-          <div class="column is-6 is-offset-1">
+          <div class="column is-4 is-left-1">
             <h1 class="title is-4">
               Midway, KY
             </h1>
-            <h2 class="subtitle is-4">
+            <h2 class="subtitle is-4 is-left-1">
               12.15.2017
             </h2>
             <br>
