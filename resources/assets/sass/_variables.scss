@@ -43,13 +43,14 @@ $black: #000000;
   fill: #AEAFB0;
 }
 // Define the initial variables
-// Update green
-$green: #5A5C51;
-$forestgreen: #5a5c51;5EAB00
+// Update green 5a5c51
+$green: #000000;
+
 // Update blue
 $blue: #005DAA;
 // Update white
 $black: #FFFFFF;
 
 // Define the derived variables
+// Use the new green as the primary color
 $primary: $green;
