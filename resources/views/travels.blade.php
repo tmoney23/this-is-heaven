@@ -16,13 +16,25 @@
   </style>
 </head>
 <body>
-  <section class="hero is-fullheight is mobile is-multiline is-default is-bold">
+  <section class="hero is-fullheight is-mobile is-multiline is-default is-bold">
   <div class="hero-head">
+    thomas darnell moore
+    </p>
+  </div>
+  <div class="column is-narrow">
+    <p class="bd-notification is-success">
+      <code class="html">is-narrow</code><br>
+      photography
+    </p>
+  </div>
+  <div class="column is-narrow">
+    <p class="bd-notification is-danger">
+      <code class="html">is-narrow</code><br>
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item" href="../">
-            <span>thomas darnell moore | photography<span>
+            <span><span>
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
             <span>thomas darnell moore</span>
