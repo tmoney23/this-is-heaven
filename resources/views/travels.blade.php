@@ -61,7 +61,7 @@
               <img src="/img/black-church.jpg" alt="black church">
             </figure>
           </div>
-          <div class="column is-4 is-left-2">
+          <div class="column is-4 is-left-.5">
             <h1 class="subtitle is-4">
               Black Church at Buðir
             </h1>
