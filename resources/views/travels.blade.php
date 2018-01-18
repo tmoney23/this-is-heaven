@@ -64,7 +64,7 @@
             <h1 class="title is-4">
               Black Church at Buðir
             </h1>
-            <h2 class="subtitle is-4">
+            <h2 class="subtitle is-4 is-left-1">
               12.15.2017
             </h2>
             <br>
@@ -91,7 +91,7 @@
             <h1 class="title is-4">
               Midway, KY
             </h1>
-            <h2 class="subtitle is-4 is-left-1">
+            <h2 class="subtitle is-4 is-left-3">
               12.15.2017
             </h2>
             <br>
