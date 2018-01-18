@@ -55,16 +55,16 @@
     <div class="hero-body">
       <div class="container has-text-centered">
         <div class="columns is-vcentered">
-          <div class="column is-5">
-            <figure class="image is-4by3">
+          <div class="column is-8">
+            <figure class="image is-2by1">
               <img src="/img/black-church.jpg" alt="black church">
             </figure>
           </div>
-          <div class="column is-4 is-left-1">
-            <h1 class="title is-4">
+          <div class="column is-2 is-left-1">
+            <h1 class="title is-2">
               Black Church at Buðir
             </h1>
-            <h2 class="subtitle is-4 is-left-1">
+            <h2 class="subtitle is-2 is-left-4">
               12.15.2017
             </h2>
             <br>
