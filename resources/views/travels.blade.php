@@ -55,7 +55,7 @@
     <div class="hero-body">
       <div class="container has-text-centered">
         <div class="columns is-vcentered">
-          <div class="column is-5">
+          <div class="column is-2">
             <figure class="image is-2by1">
               <img src="/img/black-church.jpg" alt="black church">
             </figure>
