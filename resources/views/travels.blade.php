@@ -85,11 +85,11 @@
               <img src="/img/midwayhorses.jpg" alt="hey">
             </figure>
           </div>
-          <div class="column is-2 is-left-1">
+          <div class="column is-5 is-left-2">
             <h1 class="subtitle is-2">
               Horse Farms in Midway, KY
             </h1>
-            <h2 class="subtitle is-5 is-left-1">
+            <h2 class="subtitle is-3 is-left-1">
               12.15.2017
             </h2>
             <br>
