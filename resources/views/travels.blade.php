@@ -61,7 +61,7 @@
             </figure>
           </div>
           <div class="column is-4 is-left-1">
-            <h1 class="title is-4">
+            <h1 class="subtitle is-4">
               Black Church at Buðir
             </h1>
             <h2 class="subtitle is-4 is-left-4">
@@ -85,8 +85,8 @@
               <img src="/img/midwayhorses.jpg" alt="hey">
             </figure>
           </div>
-          <div class="column is-5 is-left-2">
-            <h1 class="subtitle is-2">
+          <div class="column is-4 is-left-1">
+            <h1 class="subtitle is-4">
               Horse Farms in Midway, KY
             </h1>
             <h2 class="subtitle is-3 is-left-1">
