@@ -68,9 +68,7 @@
               12.15.2017
             </h2>
             <br>
-            <p class="has-text-centered">
-              <a class="button is-medium is-info is-outlined is active">
-                Learn more
+
               </a>
             </p>
           </div>
@@ -89,7 +87,7 @@
           </div>
           <div class="column is-4 is-left-1">
             <h1 class="title is-4">
-              Midway, KY
+              Horse Farms in Midway, KY
             </h1>
             <h2 class="subtitle is-4 is-left-3">
               12.15.2017
@@ -97,7 +95,7 @@
             <br>
             <p class="has-text-centered">
               <a class="button is-medium is-info is-outlined">
-                Learn more
+                12.15.2018
               </a>
             </p>
           </div>
