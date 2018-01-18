@@ -80,8 +80,8 @@
 
   </div>
     <div class="hero-body">
-      <div class="container has-text-centered">
-        <div class="columns is-left">
+      <div class="container has-text-left">
+        <div class="columns is-offset">
           <div class="column is-5">
             <figure class="image is-4by3">
               <img src="/img/midwayhorses.jpg" alt="hey">
