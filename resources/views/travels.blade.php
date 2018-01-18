@@ -4,8 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>cover - thomas darnell moore</title>
-  <title>photography</title>
+  <title>thomas darnell moore</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <!-- Bulma Version 0.6.0 -->
@@ -26,8 +25,8 @@
             <img src="../images/bulma.png" alt="Logo">
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
-            <span></span>
-            <span></span>
+            <span>thomas darnell moore </span>
+            <span>photography</span>
             <span></span>
           </span>
         </div>
