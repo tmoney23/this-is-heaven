@@ -60,7 +60,7 @@
               <img src="/img/black-church.jpg" alt="black church">
             </figure>
           </div>
-          <div class="column is-6 is-offset-1">
+          <div class="column is-4 is-left-1">
             <h1 class="title is-4">
               Black Church at Buðir
             </h1>
