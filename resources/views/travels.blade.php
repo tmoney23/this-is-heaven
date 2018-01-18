@@ -18,18 +18,16 @@
 <body>
   <section class="hero is-fullheight is-mobile is-multiline is-default is-bold">
   <div class="hero-head">
-    thomas darnell moore
     </p>
   </div>
   <div class="column is-narrow">
     <p class="bd-notification is-success">
-      <code class="html">is-narrow</code><br>
-      photography
+      <code class="html">thomas d moore/code><br>
     </p>
   </div>
   <div class="column is-narrow">
     <p class="bd-notification is-danger">
-      <code class="html">is-narrow</code><br>
+      <code class="html">photography</code><br>
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
