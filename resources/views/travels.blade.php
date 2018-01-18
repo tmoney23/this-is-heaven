@@ -61,11 +61,11 @@
               <img src="/img/black-church.jpg" alt="black church">
             </figure>
           </div>
-          <div class="column is-4 is-left-.5">
+          <div class="column is-4 is-left-1">
             <h1 class="subtitle is-4">
               Black Church at Buðir
             </h1>
-            <h2 class="subtitle is-4 is-left-2">
+            <h2 class="subtitle is-4 is-left-1">
               12.15.2017
             </h2>
             <br>
@@ -90,7 +90,7 @@
             <h1 class="subtitle is-4">
               Horse Farms in Midway, KY
             </h1>
-            <h2 class="subtitle is-3 is-left-1">
+            <h2 class="subtitle is-4 is-left-1">
               12.15.2017
             </h2>
             <br>
