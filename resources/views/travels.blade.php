@@ -57,12 +57,12 @@
       <div class="container has-text-centered is-bold">
         <div class="columns is-vcentered">
           <div class="column is-4">
-            <figure class="image is-4by3 is-bold">
+            <figure class="image is-4by3">
               <img src="/img/black-church.jpg" alt="black church">
             </figure>
           </div>
-          <div class="column is-4 is-left-1">
-            <h1 class="subtitle is-4">
+          <div class="column is-small is-left-small">
+            <h1 class="subtitle is-small">
               Black Church at Buðir
             </h1>
             <h2 class="subtitle is-4 is-left-1">
