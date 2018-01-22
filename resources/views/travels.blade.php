@@ -57,12 +57,12 @@
         <div class="columns is-vcentered">
           <div class="column is-5">
             <figure class="image is-4by3">
-                <img src="/img/midwayhorses.jpg" alt="hey">
+                <img src="/img/blackchurch.jpg" alt="hey">
               </figure>
             </div>
             <div class="column is-4 is-left-1">
               <h1 class="subtitle is-4">
-                Horse Farms in Midway, KY
+                da black church
               </h1>
               <h2 class="subtitle is-4 is-left-1">
                 12.15.2017
