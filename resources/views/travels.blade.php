@@ -114,7 +114,8 @@
               <h2 class="subtitle is-4 is-left-1">
                 12.15.2017
               </h2>
-              </div>
+             </div>
+            <br>
 <!---footer-->
     <div class="hero-foot">
       <div class="container">
