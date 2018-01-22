@@ -19,7 +19,7 @@
     <div class="container">
       <div class="nav-left">
         <a class="nav-item" href="../index.html">
-          <img src="iceland-lighthouse.img" alt="Description">
+          <img src="../images/bulma.img" alt="Description">
         </a>
       </div>
       <span class="nav-toggle">
@@ -56,14 +56,14 @@
       <div class="column is-8 is-offset-2">
         <div class="notification is-danger" style="margin-bottom:40px;">
           <button class="delete" onclick="((this).parentNode.remove())"></button>
-          This template is not yet finished, it may change. Please check the readme for more information.
+          nouns : person, places, things
         </div>
       </div>
       <div class="columns">
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="https://placehold.it/300x300">
+              <img src="borg-beer.img">
             </p>
             <div class="panel-block">
               <div class="columns">
