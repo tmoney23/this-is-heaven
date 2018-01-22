@@ -21,7 +21,7 @@
   <div class="hero-head">
     <nav class="navbar">
       <div class="container">
-        <div class="navbar-brand is-large">
+        <div class="navbar-brand">
           <a class="navbar-item" href="../">
             <span>thomas darnell moore | photography<span>
           </a>
@@ -56,13 +56,13 @@
     <div class="hero-body">
       <div class="container has-text-centered is-bold">
         <div class="columns is-vcentered">
-          <div class="column is-4">
+          <div class="column is-4 is-left-1">
             <figure class="image is-4by3">
               <img src="/img/black-church.jpg" alt="black church">
             </figure>
           </div>
           <div class="column is-small is-left-small">
-            <h1 class="subtitle is-small">
+            <h1 class="subtitle">
               Black Church at Buðir
             </h1>
             <h2 class="subtitle is-4 is-left-1">
