@@ -57,7 +57,7 @@
         <div class="columns is-vcentered">
           <div class="column is-5">
             <figure class="image is-4by3">
-                <img src="/img/black-church.jpg" alt="hey">
+                <img src="/img/blackchurch.jpg" alt="hey">
               </figure>
             </div>
             <div class="column is-4 is-left-1">
@@ -68,30 +68,15 @@
                 12.15.2017
             </h2>
             <br>
-            <div class="hero-body">
-              <div class="container has-text-centered">
-                <div class="columns is-vcentered">
-                  <div class="column is-5">
-                    <figure class="image is-4by3">
-                        <img src="/img/kotormontenegro.jpg" alt="hey">
-                      </figure>
-                    </div>
-                    <div class="column is-4 is-left-1">
-                      <h1 class="subtitle is-4">
-                        kotor montenegro
-                      </h1>
-                      <h2 class="subtitle is-4 is-left-1">
-                        12.15.2017
-                    </h2>
-              </nav>
+
               </a>
             </p>
           </div>
         </div>
       </div>
     </div>
+
   </div>
-</nav>
   <div class="hero-body">
     <div class="container has-text-centered">
       <div class="columns is-vcentered">
@@ -114,6 +99,21 @@
         </div>
       </div>
     </div>
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <div class="columns is-vcentered">
+          <div class="column is-5">
+            <figure class="image is-4by3">
+                <img src="/img/kotormontenegro.jpg" alt="hey">
+              </figure>
+            </div>
+            <div class="column is-4 is-left-1">
+              <h1 class="subtitle is-4">
+                kotor montenegro
+              </h1>
+              <h2 class="subtitle is-4 is-left-1">
+                12.15.2017
+              </h2>
 
     <div class="hero-foot">
       <div class="container">
