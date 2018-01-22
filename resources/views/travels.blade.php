@@ -17,7 +17,7 @@
 </head>
 <body>
   <!-- HEADING -->
-  <section class="hero is-fullheight is mobile is-multiline is-white is small is-bold">
+  <section class="hero is-fullheight is mobile is-multiline is-white is-small is-bold">
   <div class="hero-head">
     <nav class="navbar">
       <div class="container">
