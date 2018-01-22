@@ -17,12 +17,12 @@
 </head>
 <body>
   <!-- HEADING -->
-  <section class="hero is-fullheight is mobile is-multiline is-black is-large is-bold">
+  <section class="hero is-fullheight is mobile is-multiline is-white is-bold">
   <div class="hero-head">
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
-          <a class="navbar-item" href="../">
+          <a class="navbar-item is-large is-black" href="../">
             <span>thomas darnell moore | photography<span>
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
