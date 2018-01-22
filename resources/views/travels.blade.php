@@ -52,21 +52,20 @@
         </div>
       </div>
     </nav>
-  </div>
     <div class="hero-body">
-      <div class="container has-text-centered is-bold">
+      <div class="container has-text-centered">
         <div class="columns is-vcentered">
-          <div class="column is-4 is-left-1">
+          <div class="column is-5">
             <figure class="image is-4by3">
-              <img src="/img/black-church.jpg" alt="black church">
-            </figure>
-          </div>
-          <div class="column is-small is-left-small">
-            <h1 class="subtitle">
-              Black Church at Buðir
-            </h1>
-            <h2 class="subtitle is-4 is-left-1">
-              12.15.2017
+                <img src="/img/midwayhorses.jpg" alt="hey">
+              </figure>
+            </div>
+            <div class="column is-4 is-left-1">
+              <h1 class="subtitle is-4">
+                Horse Farms in Midway, KY
+              </h1>
+              <h2 class="subtitle is-4 is-left-1">
+                12.15.2017
             </h2>
             <br>
 
