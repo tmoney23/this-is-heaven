@@ -63,7 +63,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="borg-beer.jpg">
+              <img src="/img/borg-beer.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
