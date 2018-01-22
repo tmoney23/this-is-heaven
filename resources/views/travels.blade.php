@@ -57,7 +57,7 @@
         <div class="columns is-vcentered">
           <div class="column is-5">
             <figure class="image is-4by3">
-                <img src="/img/blackchurch.jpg" alt="hey">
+                <img src="/img/black-church.jpg" alt="hey">
               </figure>
             </div>
             <div class="column is-4 is-left-1">
