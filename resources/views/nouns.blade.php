@@ -71,10 +71,8 @@
                   <div class="panel-block-item is-small">icelandic beer</div>
                   <h1 class="subtitle is-8 is-small is-left">
                     good beer
+                    hello
                   </h1>
-                  <h2 class="subtitle is-9 is-small is-left is-black">
-                    12.15.2017
-                </h2>
                 </div>
                 <div class="column has-text-right">
                   <div class="panel-block-item">2 <i class="fa fa-heart"></i></div>
