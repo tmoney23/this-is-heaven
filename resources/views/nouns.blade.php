@@ -76,9 +76,6 @@
                     12.15.2017
                 </h2>
                 </div>
-                <div class="column has-text-right">
-                  <div class="panel-block-item">2 <i class="fa fa-heart"></i></div>
-                  <div class="panel-block-item">2d <i class="fa fa-calendar"></i></div>
                 </div>
               </div>
             </div>
