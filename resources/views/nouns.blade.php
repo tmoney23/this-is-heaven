@@ -68,7 +68,7 @@
             <div class="panel-block">
               <div class="columns">
                 <div class="column">
-                  <div class="panel-block-item">2 views</div>
+                  <div class="panel-block-item">icelandic beer</div>
                 </div>
                 <div class="column has-text-right">
                   <div class="panel-block-item">2 <i class="fa fa-heart"></i></div>
