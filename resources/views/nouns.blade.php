@@ -140,7 +140,7 @@
         </div>
       </div>
       <div class="columns">
-        <div class="column is-2">
+        <div class="column is-4">
           <div class="panel">
             <p class="is-marginless">
               <img src="/img/finnemore.jpg">
