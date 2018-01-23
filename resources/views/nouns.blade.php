@@ -143,7 +143,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="/img/finnemore.img">
+              <img src="/img/finnemore.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
