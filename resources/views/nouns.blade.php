@@ -60,8 +60,8 @@
         </div>
       </div>
       <div class="columns">
-        <div class="column is-3 is-active">
-          <div class="button">
+        <div class="column is-3 is-active is-inverted">
+          <div class="column">
             <p class="is-marginless">
               <img src="/img/borg-beer.jpg">
             </p>
