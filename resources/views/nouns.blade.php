@@ -71,6 +71,7 @@
                   <div class="panel-block-item is-small">icelandic beer</div>
                   <h1 class="subtitle is-8 is-small is-left">
                     good beer
+                  </div></div>
                     hello
                   </h1>
                 </div>
