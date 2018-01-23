@@ -76,6 +76,9 @@
                     12.15.2017
                 </h2>
                 </div>
+                <div class="column has-text-right">
+                  <div class="panel-block-item">2 <i class="fa fa-heart"></i></div>
+                  <div class="panel-block-item">2d <i class="fa fa-calendar"></i></div>
                 </div>
               </div>
             </div>
@@ -140,7 +143,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="https://placehold.it/300x300">
+              <img src="/img/finnemore.img">
             </p>
             <div class="panel-block">
               <div class="columns">
