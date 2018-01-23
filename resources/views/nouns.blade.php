@@ -76,6 +76,9 @@
                     12.15.2017
                 </h2>
                 </div>
+                <div class="column has-text-right">
+                  <div><div>
+                  <div><div>
                 </div>
               </div>
             </div>
