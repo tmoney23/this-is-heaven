@@ -83,10 +83,7 @@
             <p class="is-marginless">
               <img src="/img/midway-watertower.jpg">
             </p>
-            <div class="panel-block">
-              <div class="columns">
-                <div class="column">
-                  <div class="panel-block-item">2 views</div>
+          <!--the views code goes here-->
                 </div>
                 <div class="column has-text-right">
                   <div class="panel-block-item">2 <i class="fa fa-heart"></i></div>
