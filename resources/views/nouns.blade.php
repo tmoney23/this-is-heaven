@@ -83,10 +83,10 @@
             <p class="is-marginless">
               <img src="/img/midway-watertower.jpg">
             </p>
-          
+            <div class="panel-block">
               <div class="columns">
                 <div class="column">
-
+                  <div class="panel-block-item">2 views</div>
                 </div>
                 <div class="column has-text-right">
                   <div class="panel-block-item">2 <i class="fa fa-heart"></i></div>
@@ -117,7 +117,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="https://placehold.it/300x300">
+              <img src="/img/grass.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
