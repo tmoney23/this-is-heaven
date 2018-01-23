@@ -69,6 +69,12 @@
               <div class="columns">
                 <div class="column">
                   <div class="panel-block-item">icelandic beer</div>
+                  <h1 class="subtitle is-2">
+                    da black church
+                  </h1>
+                  <h2 class="subtitle is-4 is-left-1">
+                    12.15.2017
+                </h2>
                 </div>
                 <div class="column has-text-right">
                   <div class="panel-block-item">2 <i class="fa fa-heart"></i></div>
