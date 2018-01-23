@@ -81,7 +81,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="https://placehold.it/300x300">
+              <img src="/img/midway-watertower.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
@@ -99,7 +99,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="https://placehold.it/300x300">
+              <img src="/img/pig.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
