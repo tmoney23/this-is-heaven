@@ -72,7 +72,7 @@
                   <h1 class="subtitle is-8 is-small is-left">
                     good beer
                   </h1>
-                  <h2 class="subtitle is-8 is-small is-left">
+                  <h2 class="subtitle is-8 is-small is-left is-black">
                     12.15.2017
                 </h2>
                 </div>
