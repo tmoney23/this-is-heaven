@@ -61,7 +61,7 @@
       </div>
       <div class="columns">
         <div class="column is-3 is-active">
-          <div class="panel">
+          <div class="button">
             <p class="is-marginless">
               <img src="/img/borg-beer.jpg">
             </p>
