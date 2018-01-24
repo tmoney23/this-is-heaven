@@ -42,7 +42,7 @@
         </a>
         <span class="nav-item">
           <a class="button">
-            contact
+            contact 
           </a>
           <a class="button is-success is-inverted">
             Sign up
