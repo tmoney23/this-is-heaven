@@ -19,7 +19,7 @@
     <div class="container">
       <div class="nav-left">
         <a class="nav-item" href="../index.html">
-          <img class="button" alt="thomas">
+          <span>thomas darnell moore | photography<span>
         </a>
       </div>
       <span class="nav-toggle">
@@ -28,7 +28,7 @@
         <span></span>
       </span>
       <div class="nav-right nav-menu">
-        <a class="nav-item is-tab is-active">
+        <a class="nav-item is-tab is-inverted">
           Home
         </a>
         <a class="nav-item is-tab">
