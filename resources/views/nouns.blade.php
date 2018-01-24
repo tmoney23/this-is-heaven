@@ -18,7 +18,7 @@
   <nav class="nav has-shadow" id="top">
     <div class="container">
       <div class="nav-left">
-        <a class="nav-item" href="../index.html">
+        <a class="nav-item" href="../">
           <span>thomas darnell moore | photography<span>
         </a>
       </div>
