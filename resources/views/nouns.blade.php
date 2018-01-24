@@ -85,7 +85,7 @@
           <div class="panel">
             <p class="is-marginless">
               <img src="/img/midway-watertower.jpg">
-               <p class="is-overlay">hey</P>
+               <p class="is-overlay"><span>hey<span>
             </p>
             <div class="panel-block">
               <div class="columns">
