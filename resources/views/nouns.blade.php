@@ -68,13 +68,13 @@
             <div class="panel-block">
               <div class="columns">
                 <div class="column">
-                  <div class="panel-block-item is-9 is-small">icelandic beer</div>
+                  <div class="panel-block-item">icelandic beer</div>
                   <h1 class="subtitle is-left">
                    <!--possible text place-->
                   </h1>
                 </div>
                 <div class="column has-text-left">
-                  <div class="panel-block-item">Reykjavik</i></div>
+                  <div class="panel-block-item">Reykjavik, Iceland</i></div>
                   <div class="panel-block-item"></i></div>
                 </div>
               </div>
