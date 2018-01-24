@@ -17,7 +17,8 @@
         <link rel="stylesheet" type="text/css" href="../css/landing.css">
     </head>
     <body>
-      <section class="hero is-success is-fulllength\\ bg-img-northernlights is-overlay">
+      <p class="is-overlay"><span>hey, if you can read this, they're watching<span>
+   </p>
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
