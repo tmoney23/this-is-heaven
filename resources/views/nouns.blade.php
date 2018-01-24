@@ -68,10 +68,10 @@
             <div class="panel-block">
               <div class="columns">
                 <div class="column">
-                  <div class="panel-block-item is-9">icelandic beer</div>
-                  <h1 class="subtitle is-small is-left">
+                  <div class="panel-block-item is-small">icelandic beer</div>
+                  <div class="subtitle is-small is-left">
                     good beer
-                  </h1>
+                  </div>
                 </div>
                 <div class="column has-text-right">
                   <div class="panel-block-item">2 <i class="fa fa-heart"></i></div>
