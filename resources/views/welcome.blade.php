@@ -1,7 +1,7 @@
     <!DOCTYPE html>
   <html>
     <head>
-     <div class="container is-fullhd">
+     <div class="container is-fulllength">
       <div class="notification">
         <span><span><span><span>thomas darnell moore | photography</span><span><span><span>
        </div>
