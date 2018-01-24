@@ -70,12 +70,12 @@
                 <div class="column">
                   <div class="panel-block-item is-9 is-small">icelandic beer</div>
                   <h1 class="subtitle is-left">
-                    good beer
+                   <!--possible text place-->
                   </h1>
                 </div>
-                <div class="column has-text-right">
-                  <div class="panel-block-item">2 </i></div>
-                  <div class="panel-block-item">2d </i></div>
+                <div class="column has-text-left">
+                  <div class="panel-block-item">Reykjavik</i></div>
+                  <div class="panel-block-item"></i></div>
                 </div>
               </div>
             </div>
