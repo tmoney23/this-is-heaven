@@ -176,7 +176,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="/img/tobacco-barn.jpg">
+              <img src="/img/tobaccoo-barn.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
