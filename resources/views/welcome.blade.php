@@ -2,6 +2,8 @@
   <html>
     <head>
      <div class="container is-fullhd">
+       <img src="/img/northernlights.jpg">
+         <figure class="image is-overlay">
       <div class="notification">
         <span><span><span><span>thomas darnell moore | photography</span><span><span><span>
        </div>
