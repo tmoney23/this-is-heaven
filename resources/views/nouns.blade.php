@@ -85,7 +85,8 @@
           <div class="panel">
             <p class="is-marginless">
               <img src="/img/midway-watertower.jpg">
-               <p class="is-overlay"><span>hey what am doing<span>
+              <!--this is the spot to write on the background with overlay-->
+               <p class="is-overlay"><span>hey, if you can read this, they're watching<span>
             </p>
             <div class="panel-block">
               <div class="columns">
