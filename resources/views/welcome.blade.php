@@ -57,8 +57,6 @@
           </nav>
         </div>
         <div class="hero-body">
-          <figure class="image is-fulllength is-overlay">
-        <div class="hero-body">
           <div class="container has-text-centered">
             <div class="column is-6 is-offset-3">
               <h1 class="title">
