@@ -269,7 +269,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="/img/black-church.img">
+              <img src="/img/3horses.img">
             </p>
             <div class="panel-block">
               <div class="columns">
