@@ -1,7 +1,6 @@
     <!DOCTYPE html>
   <html>
     <head>
-    <img src="/img/borg-beer.jpg">
      <div class="container is-fullhd">
       <div class="notification">
         <span><span><span><span>thomas darnell moore | photography</span><span><span><span>
