@@ -56,7 +56,7 @@
             </div>
           </nav>
         </div>
-        <img src="/img/northernlights.jpg">
+        <div class="hero-body">
           <figure class="image is-fulllength is-overlay">
         <div class="hero-body">
           <div class="container has-text-centered">
