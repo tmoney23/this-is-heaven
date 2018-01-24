@@ -215,7 +215,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="/img/horses-mountains">
+              <img src="/img/horses-mountains.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
