@@ -19,7 +19,7 @@
     <div class="container">
       <div class="nav-left">
         <a class="nav-item" href="../index.html">
-          <img src="../images/bulma.img" alt="Description">
+          <img class="button" alt="thomas">
         </a>
       </div>
       <span class="nav-toggle">
