@@ -34,19 +34,19 @@
         <div id="navbarMenu" class="navbar-menu">
           <div class="navbar-end">
             <a class="navbar-item is-active">
-              Home
+              blog
             </a>
             <a class="navbar-item">
-              Examples
+              nouns
             </a>
             <a class="navbar-item">
-              Features
+              travels
             </a>
             <a class="navbar-item">
-              Team
+              prints
             </a>
             <a class="navbar-item">
-              Help
+              contact
             </a>
           </div>
         </div>
