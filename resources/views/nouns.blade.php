@@ -233,7 +233,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="https://placehold.it/300x300">
+              <img src="/img/iceland-lighthouse.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
