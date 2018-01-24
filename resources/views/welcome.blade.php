@@ -17,8 +17,6 @@
         <link rel="stylesheet" type="text/css" href="../css/landing.css">
     </head>
     <body>
-      <p class="is-overlay"><span>hey, if you can read this, they're watching<span>
-   </p>
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
@@ -62,10 +60,10 @@
           <div class="container has-text-centered">
             <div class="column is-6 is-offset-3">
               <h1 class="title">
-                Coming Soon
+                Coming Soon Suckas
               </h1>
               <h2 class="subtitle">
-                 $this is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
+                 if you can read this, I did something right...
               </h2>
               <div class="box">
 
