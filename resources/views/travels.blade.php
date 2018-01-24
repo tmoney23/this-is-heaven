@@ -19,7 +19,7 @@
   <!-- HEADING -->
   <section class="hero is-fullheight is mobile is-multiline is-white is-bold">
   <div class="hero-head">
-    <nav class="navbar nav-has-shadow">
+    <nav class="nav-has-shadow">
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item" href="../">
