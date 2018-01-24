@@ -2,8 +2,6 @@
   <html>
     <head>
      <div class="container is-fullhd">
-       <img src="/img/northernlights.jpg">
-         <figure class="image is-overlay">
       <div class="notification">
         <span><span><span><span>thomas darnell moore | photography</span><span><span><span>
        </div>
@@ -19,7 +17,7 @@
         <link rel="stylesheet" type="text/css" href="../css/landing.css">
     </head>
     <body>
-      <section class="hero is-success is-fulllength\\ bg-img-northernlights is-overlay">
+      <section class="hero is-success is-fulllength\\bg-img-northernlights is-overlay">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
