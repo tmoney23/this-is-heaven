@@ -31,10 +31,6 @@
             <span></span>
           </span>
         </div>
-        <span class="nav-toggle">
-          <span></span>
-          <span></span>
-          <span></span>
         <div id="navbarMenu" class="navbar-menu">
           <div class="navbar-end">
             <a class="navbar-item is-active">
