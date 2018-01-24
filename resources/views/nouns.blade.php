@@ -69,7 +69,7 @@
               <div class="columns">
                 <div class="column">
                   <div class="panel-block-item is-9 is-small">icelandic beer</div>
-                  <h1 class="subtitle is-verysmall is-left">
+                  <h1 class="subtitle is-left">
                     good beer
                   </h1>
                 </div>
