@@ -83,8 +83,9 @@
         </div>
         <div class="column is-3">
           <div class="panel">
-            <p class="is-marginless is-overlay"><span>hey<span>
+            <p class="is-marginless">
               <img src="/img/midway-watertower.jpg">
+               <p class="is-overlay">hey</P>
             </p>
             <div class="panel-block">
               <div class="columns">
