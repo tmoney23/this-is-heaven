@@ -68,8 +68,8 @@
             <div class="panel-block">
               <div class="columns">
                 <div class="column">
-                  <div class="panel-block-item is-8 is-small">icelandic beer</div>
-                  <h1 class="subtitle is-very small is-left">
+                  <div class="panel-block-item is-9">icelandic beer</div>
+                  <h1 class="subtitle is-small is-left">
                     good beer
                   </h1>
                 </div>
