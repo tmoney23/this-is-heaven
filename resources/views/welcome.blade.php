@@ -56,10 +56,9 @@
             </div>
           </nav>
         </div>
-
+        <img src="/img/northernlights.jpg">
+          <figure class="image is-fulllength is-overlay">
         <div class="hero-body">
-          <img src="/img/northernlights.jpg">
-            <figure class="image is-overlay">
           <div class="container has-text-centered">
             <div class="column is-6 is-offset-3">
               <h1 class="title">
