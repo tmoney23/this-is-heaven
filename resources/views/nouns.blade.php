@@ -29,20 +29,20 @@
       </span>
       <div class="nav-right nav-menu">
         <a class="nav-item is-tab is-inverted">
-          Home
+          blog
         </a>
         <a class="nav-item is-tab">
-          Features
+          nouns
         </a>
         <a class="nav-item is-tab">
-          Team
+          travels
         </a>
         <a class="nav-item is-tab">
-          Help
+          prints
         </a>
         <span class="nav-item">
           <a class="button">
-            Log in
+            contact
           </a>
           <a class="button is-success is-inverted">
             Sign up
@@ -50,14 +50,7 @@
         </span>
       </div>
     </div>
-  </nav>
-  <div class="section">
-    <div class="container">
-      <div class="column is-5 is-offset-2">
-        <div class="notification is-warning" style="margin-bottom:40px;">
-          <button class="delete" onclick="((this).parentNode.remove())"></button>
-          nouns : person, places, things
-        </div>
+   </nav>
       </div>
       <div class="columns">
         <div class="column is-3 is-active is-inverted">
