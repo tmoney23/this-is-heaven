@@ -17,7 +17,7 @@
         <link rel="stylesheet" type="text/css" href="../css/landing.css">
     </head>
     <body>
-      <section class="hero is-success is-fulllength\\bg-img-northernlights is-overlay">
+      <section class="hero is-success is-fulllength">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
           <header class="navbar">
@@ -58,6 +58,8 @@
         </div>
 
         <div class="hero-body">
+          <img src="/img/northernlights.jpg">
+            <figure class="image is-overlay">
           <div class="container has-text-centered">
             <div class="column is-6 is-offset-3">
               <h1 class="title">
