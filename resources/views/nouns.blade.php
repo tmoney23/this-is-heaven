@@ -44,7 +44,7 @@
           <a class="button">
             Log in
           </a>
-          <a class="button is-info is-success is-inverted">
+          <a class="button is-success is-inverted">
             Sign up
           </a>
         </span>
@@ -158,7 +158,7 @@
         <div class="column is-3">
           <div class="panel">
             <p class="is-marginless">
-              <img src="https://placehold.it/300x300">
+              <img src="/img/tmoney.jpg">
             </p>
             <div class="panel-block">
               <div class="columns">
