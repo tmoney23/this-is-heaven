@@ -61,10 +61,10 @@
               </figure>
             </div>
             <div class="column is-4 is-left-1">
-              <h1 class="title is-10">
+              <h1 class="subtitle is-15">
                 da black church
               </h1>
-              <h2 class="subtitle is-11 is-left-1">
+              <h2 class="subtitle is-15 is-left-1">
                 this one time at a black church in iceland...jndsndsNFndsjfndslfndsFDsbfndsmFsdbf,dsFbdsmf sd
                 nmdsbfnmbDSFMBDSN,FMB,SNDMFnmsdfdsfnbNMFBMNdfdsNFMsf
                 nmbDFNMB,dnfndf,sDFMNdfnmdbsFMdsnfbdsnfbsdnfsdMBDSF
