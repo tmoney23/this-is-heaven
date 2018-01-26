@@ -62,15 +62,11 @@
             </div>
             <div class="column is-4 is-left-1">
               <h1 class="subtitle is-bold is-6">
-                da black church
+                <strong>da black church</strong>
               </h1>
               <h2 class="subtitle is-6 is-left-1">
                 this one time at a black church in iceland...
-                <p>jndsndsNFndsjfndslfndsFDsbfndsmFsdbf,dsFbdsmf sd
-                nmdsbfnmbDSFMBDSN,FMB,SNDMFnmsdfdsfnbNMFBMNdfdsNFMsf
-                nmbDFNMB,dnfndf,sDFMNdfnmdbsFMdsnfbdsnfbsdnfsdMBDSF
-                N dfbsdFNSDNFBnmdsbf,mnDSFNdsfnmdsbFNMdsbfndsbdnsmfbdnfbsf
-              </p>
+                <p>jndsndsNFndsjfndslfndsFDsbfndsmFsdbf,dsFbdsmf sd nmdsbfnmbDSFMBDSN,FMB,SNDMFnmsdfdsfnbNMFBMNdfdsNFMsf. nmbDFNMB,dnfndf,sDFMNdfnmdbsFMdsnfbdsnfbsdnfsdMBDSF. N dfbsdFNSDNFBnmdsbf,mnDSFNdsfnmdsbFNMdsbfndsbdnsmfbdnfbsf</p>
             </h2>
             <br>
 
