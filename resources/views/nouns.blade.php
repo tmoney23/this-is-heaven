@@ -42,7 +42,7 @@
         </a>
         <a href="/contact" class="button is-success is-inverted">
           <span class="icon">
-            <i class="fa fa-paper-plane"/i>
+            <i class="fa fa-paper-plane">contact</i>
           </a>
           <a class="button is-success is-inverted">
             Sign up
