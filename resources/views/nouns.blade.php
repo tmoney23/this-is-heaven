@@ -37,10 +37,10 @@
         <a href="/travels" class="nav-item is-tab">
           travels
         </a>
-        <a class="nav-item is-tab">
+        <a href="/prints"class="nav-item is-tab">
           prints
         </a>
-        <span class="nav-item">
+        <span href="/contact" class="nav-item">
           <a class="button">
             contact
           </a>
