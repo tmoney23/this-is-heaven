@@ -31,7 +31,7 @@
         <a class="nav-item is-tab is-inverted">
           blog
         </a>
-        <a a href="/nouns" class="nav-item is-tab">
+        <a href="/nouns" class="nav-item is-tab">
           nouns
         </a>
         <a class="nav-item is-tab">
