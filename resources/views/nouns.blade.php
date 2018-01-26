@@ -40,9 +40,9 @@
         <a href="/prints"class="nav-item is-tab">
           prints
         </a>
-        <span href="/contact" class="nav-item">
-          <a class="button">
-            contact
+        <a href="/contact" class="button is-success is-inverted">
+          <span class="icon">
+            <i class="fa fa-paper-plane"/i>
           </a>
           <a class="button is-success is-inverted">
             Sign up
