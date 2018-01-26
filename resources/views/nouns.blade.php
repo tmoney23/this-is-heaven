@@ -34,7 +34,7 @@
         <a href="/nouns" class="nav-item is-tab">
           nouns
         </a>
-        <a class="nav-item is-tab">
+        <a href="/travels" class="nav-item is-tab">
           travels
         </a>
         <a class="nav-item is-tab">
