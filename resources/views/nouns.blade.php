@@ -44,9 +44,10 @@
           <span class="icon">
             <i class="fa fa-paper-plane">contact</i>
           </a>
-          <a class="button is-success is-inverted">
-            Sign up
-          </a>
+          <span></span>
+          <span></span>
+          <span></span>
+          <a class="button is-success is-inverted">Sign up</a>
         </span>
       </div>
     </div>
