@@ -47,7 +47,6 @@
           <span></span>
           <span></span>
           <span></span>
-          <a class="button is-success is-inverted">Sign up</a>
         </span>
       </div>
     </div>
