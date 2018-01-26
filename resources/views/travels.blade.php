@@ -61,7 +61,7 @@
               </figure>
             </div>
             <div class="column is-4 is-left-1">
-              <h1 class="subtitle is-15">
+              <h1 class="subtitle is-small is-20">
                 da black church
               </h1>
               <h2 class="subtitle is-15 is-left-1">
