@@ -16,6 +16,18 @@
   </style>
 </head>
 <body>
+  <!--php stuff-->
+  @php
+    // PHP Code goes here.
+    $thomas = 'I am the man.';
+    $thomas = $thomas . ' So is Drew.';
+    $title = 'da black church';
+    $help_me = '<h1 class="subtitle is-4 is-stong is-left">im learning some php stuff</h1>';
+    $geaux = '<h2 class="title is-4 is-left">geaux tigers, kick some ass</h2>';
+    $coach_o = 'i hate coach o';
+    $php = '<h1 class="title is-4 is-stong is-left"> i got this!!!</h1>';
+
+  @endphp
   <!-- HEADING -->
   <section class="hero is-fullheight is mobile is-multiline is-white is-bold">
   <div class="hero-head">
@@ -23,7 +35,7 @@
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item" href="../">
-            <span>thomas darnell moore | photography<span> | {{ Carbon\Carbon::today() }}
+            <span>thomas darnell moore | photography<span> | {{ $thomas }}
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
             <span>thomas darnell moore</span>
@@ -61,13 +73,14 @@
               </figure>
             </div>
             <div class="column is-4 is-left-1">
-              <h1 class="subtitle is-bold is-6">
-                <strong>da black church</strong>
+              <h1 class="subtitle is-strong is-6">
+              @php
+              echo $php;
+              @endphp
+              @php
+              echo $coach_o;
+              @endphp
               </h1>
-              <h2 class="subtitle is-6 is-left-1">
-                this one time at a black church in iceland...
-                <p>jndsndsNFndsjfndslfndsFDsbfndsmFsdbf,dsFbdsmf sd nmdsbfnmbDSFMBDSN,FMB,SNDMFnmsdfdsfnbNMFBMNdfdsNFMsf. nmbDFNMB,dnfndf,sDFMNdfnmdbsFMdsnfbdsnfbsdnfsdMBDSF. N dfbsdFNSDNFBnmdsbf,mnDSFNdsfnmdsbFNMdsbfndsbdnsmfbdnfbsf</p>
-            </h2>
             <br>
 
               </a>
@@ -87,9 +100,13 @@
             </figure>
           </div>
           <div class="column is-4 is-left-1">
-            <h1 class="subtitle is-4">
-              Horse Farms in Midway, KY
-            </h1>
+            <h1 class="subtitle is-4 is-strong">
+               <strong>{{ $title }}</strong>
+                 </h1>
+              @php
+              echo $help_me;
+              @endphp
+            <br>
             <h2 class="subtitle is-4 is-left-1">
               12.15.2017
             </h2>
