@@ -1,11 +1,6 @@
     <!DOCTYPE html>
   <html>
     <head>
-     <div class="container is-fulllength">
-      <div class="notification">
-        <span><span><span><span>thomas darnell moore | photography</span><span><span><span>
-       </div>
-       </div>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,12 +18,7 @@
           <header class="navbar">
             <div class="container">
               <div class="navbar-brand">
-                <a href="/">
-
-                  <span></span>
-                  <span></span>
-                  <span></span>
-                </span>
+                <a href="/">thomas darnell moore | photography</a> | {{ Carbon\Carbon::createFromDate(1984, 2, 13, 'America/New_York')->diffInMinutes(Carbon\Carbon::now ()) }}
               </div>
               <div id="navbarMenuHeroC" class="navbar-menu">
                 <div class="navbar-end">

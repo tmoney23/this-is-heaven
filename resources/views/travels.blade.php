@@ -23,7 +23,7 @@
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item" href="../">
-            <span>thomas darnell moore | photography<span>
+            <span>thomas darnell moore | photography<span> | {{ Carbon\Carbon::today() }}
           </a>
           <span class="navbar-burger burger" data-target="navbarMenu">
             <span>thomas darnell moore</span>
