@@ -50,10 +50,10 @@
           <div class="container has-text-centered">
             <div class="column is-6 is-offset-3">
               <h1 class="title">
-                Coming Soon Suckas
+                Coming soon
               </h1>
               <h2 class="subtitle">
-                 if you can read this, i did something right...
+                 if you can read...
               </h2>
               <div class="box">
 

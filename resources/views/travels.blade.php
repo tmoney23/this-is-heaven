@@ -25,6 +25,7 @@
     $help_me = '<h1 class="subtitle is-4 is-stong is-left">im learning some php stuff</h1>';
     $geaux = '<h2 class="title is-4 is-left">geaux tigers, kick some ass</h2>';
     $coach_o = 'i hate coach o';
+    $coach_o = $coach_o . ' we will rock you ';
     $php = '<h1 class="title is-4 is-stong is-left"> i got this!!!</h1>';
 
   @endphp
@@ -45,8 +46,8 @@
         </div>
         <div id="navbarMenu" class="navbar-menu">
           <div class="navbar-end">
-            <a class="navbar-item is-active">
-              blog
+            <a class="navbar-item is-strong is-active">
+              blogs
             </a>
             <a class="navbar-item">
               nouns
