@@ -1,0 +1,63 @@
+
+.bg-img-northernlights { background: url('/img/northernlights.jpg')center center; background-size:cover; }
+.bg-img-chamonix { background: url('/img/chamonix.jpg')center center; background-size:cover; }
+.bg-img-hotpool { background: url('/img/hotpool.jpg')center center; background-size:cover; }
+.bg-img-icelandroad { background: url('/img/icelandroad.jpg')center center; background-size:cover; }
+.bg-img-horses-mountains { background: url('/img/horses-mountains.jpg')center center; background-size:cover; }
+.bg-img-black-church { background: url('/img/black-church.jpg')center center; background-size:cover; }
+.bg-img-kotormontenegro { background: url('/img/kotormontenegro.jpg')center center; background-size:cover; }
+.bg-img-atlanta-sunrise { background: url('/img/atlanta-sunrise.jpg')center center; background-size:cover; }
+.bg-img-pig { background: url('/img/pig.jpg')center center; background-size:cover; }
+.bg-img-finnemore { background: url('/img/finnemore.jpg')center center; background-size:cover; }
+.bg-img-tobaccoo-barn { background: url('/img/tobaccoo-barn.jpg')center center; background-size:cover; }
+.bg-img-borg-beer { background: url('/img/borg-beer.jpg')center center; background-size:cover; }
+.bg-img-iceland-lighthouse { background: url('/img/iceland-lighthouse.jpg')center center; background-size:cover; }
+.bg-img-grass { background: url('/img/grass.jpg')center center; background-size:cover; }
+.bg-img-3horses { background: url('/img/3horses.jpg')center center; background-size:cover; }
+.bg-img-midway-watertower { background: url('/img/midway-watertower.jpg')center center; background-size:cover; }
+.bg-img-icelandroad { background: url('/img/icelandroad.jpg')center center; background-size:cover; }
+
+
+
+navigator.vibrate(1000)
+
+$black: #001630;
+
+
+.planePath {
+  stroke: #D9DADA;
+  stroke-width: .1%;
+  stroke-width: .5%;
+  stroke-dasharray: 1% 2%;
+  stroke-linecap: round;
+  fill: none;
+}
+
+.fil1 {
+  fill: #000000;
+}
+
+.fil2 {
+  fill: #C5C6C6;
+}
+
+.fil4 {
+  fill: #9D9E9E;
+}
+
+.fil3 {
+  fill: #AEAFB0;
+}
+// Define the initial variables
+// Update green 5a5c51
+$green: #5EAB00;
+// Update green 5a5c51
+$newgreen: #5a5c51;
+// Update blue
+$blue: #005DAA;
+// Update white
+$black: #FFFFFF;
+
+// Define the derived variables
+// Use the new green as the primary color
+$primary: newgreen;
