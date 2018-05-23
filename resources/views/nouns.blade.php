@@ -42,7 +42,7 @@
         </a>
         <a href="/contact" class="nav-item is-button is-tab is-success is-inverted">
           <span class="icon">
-            <i class="fa fa-paper-plane">contact</i>
+            <i class="fa fa-paper-plane">contacts</i>
           </a>
           <span></span>
           <span></span>
