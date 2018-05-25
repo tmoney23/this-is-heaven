@@ -19,7 +19,7 @@
     <div class="container">
       <div class="nav-left">
         <a class="nav-item" href="../">
-          <span>thomas darnell moore | photography<span>
+          <span>thomas darnell moore | photo<span>
         </a>
       </div>
       <span class="nav-toggle">
