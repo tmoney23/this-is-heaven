@@ -19,7 +19,11 @@
     <div class="container">
       <div class="nav-left">
         <a class="nav-item" href="../">
+<<<<<<< HEAD
           <span>thomas darnell moore | photography<span>
+=======
+          <span>thomas darnell moore | photo<span>
+>>>>>>> 2d0c55db9010ae249126dd72739d152184113f4e
         </a>
       </div>
       <span class="nav-toggle">
