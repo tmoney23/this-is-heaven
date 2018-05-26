@@ -30,6 +30,9 @@ Route::get('/prints', function () {
 Route::get('/nouns', function () {
     return view('nouns');
 });
+Route::get('/home', function () {
+    return view('home');
+});
 
 Auth::routes();
 
