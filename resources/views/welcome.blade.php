@@ -76,10 +76,10 @@
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://www.formethisisheaven.com">FAKE News y'all</a>
+                    <a href="https://laracasts.com">Laravel</a>
+                    <a href="https://www.breakoutgames.com">breakout games</a>
                     <a href="https://www.neveroneforwords.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.profileplan.com">profile by sanford</a>
                 </div>
             </div>
         </div>
