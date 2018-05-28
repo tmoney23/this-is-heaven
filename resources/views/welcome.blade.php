@@ -78,7 +78,7 @@
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laravel</a>
                     <a href="https://www.breakoutgames.com">breakout games</a>
-                    <a href="https://www.neveroneforwords.com">Forge</a>
+                    <a href="https://www.neveroneforwords.com">NOFW</a>
                     <a href="https://www.profileplan.com">profile by sanford</a>
                 </div>
             </div>
