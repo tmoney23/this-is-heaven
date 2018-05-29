@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>test site</title>
+        <title>blog</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -61,7 +61,7 @@
             @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
-                        <a href="{{ url('/home') }}">Home</a>
+                        <a href="{{ url('/about') }}">About</a>
                     @else
                         <a href="{{ route('login') }}">Login</a>
                         <a href="{{ route('register') }}">Register</a>
@@ -71,15 +71,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laracast
+                    Whats Up?!
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laravel</a>
-                    <a href="www.yahoo.com">yahoo</a>
-                    <a href="https://www.google.com">google</a>
-                    <a href="https://www.espn.com">espn</a>
+                    <a href="https://formethisisheaven.com/people">people</a>
+                    <a href="https://formethisisheaven.com/places">places</a>
+                    <a href="https://formethisisheaven.com/things">things</a>
                 </div>
             </div>
         </div>
