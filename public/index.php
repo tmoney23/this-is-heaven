@@ -77,9 +77,9 @@
                 <div class="links">
                   <a href="https://laravel.com/docs">Documentation</a>
                   <a href="https://laracasts.com">Laravel</a>
-                  <a href="www.yahoo.com">yahoo</a>
+                  <a href="https://www.yahoo.com">yahoo</a>
                   <a href="https://www.google.com">google</a>
-                  <a href="https://www.espn.com">espn</a>
+                  <a href="https://www.gearpatrol.com">gearpatrol</a>
                 </div>
             </div>
         </div>
