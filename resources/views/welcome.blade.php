@@ -1,85 +1,172 @@
-<!doctype html>
-<html lang="{{ app()->getLocale() }}">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+body {
+	font-family: 'Open Sans', sans-serif;
+}
 
-        <title>blog</title>
+form {
+	max-width: 500px;
+	margin: 0 auto;
+}
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+button {
+  color: #777;
+	background: #fff;
+  padding: 4px 12px 4px 12px;
+  border: solid #777 2px;
+	transition: all 0.3s ease-in-out;
+  text-decoration: none;
+}
 
-        <!-- Styles -->
-        <style>
-            html, body {
-                background-color: #fff;
-                color: #636b6f;
-                font-family: 'Raleway', sans-serif;
-                font-weight: 100;
-                height: 100vh;
-                margin: 0;
-            }
-            .full-height {
-                height: 100vh;
-            }
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
-            }
-            .position-ref {
-                position: relative;
-            }
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
-            .content {
-                text-align: center;
-            }
-            .title {
-                font-size: 84px;
-            }
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 12px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-            }
-            .m-b-md {
-                margin-bottom: 30px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/about') }}">About</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
-                        <a href="{{ route('register') }}">Register</a>
-                    @endauth
-                </div>
-            @endif
+button:hover {
+	color: #000;
+	border: solid #000 2px;
+  text-decoration: none;
+}
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Whats Up?!
-                </div>
+input, textarea {
+	font-size: 0.8rem;
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 0.5rem 0.7rem;
+	margin: 5px 0;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
 
-                <div class="links">
-                    <a href="https://formethisisheaven.com/people">people</a>
-                    <a href="https://formethisisheaven.com/places">places</a>
-                    <a href="https://formethisisheaven.com/things">things</a>
-                </div>
-            </div>
-        </div>
-    </body>
-</html>
+}
+
+input:focus, textarea:focus {
+  border-color: #777;
+  outline: none;
+}
+
+.portfolio-content {
+	line-height: 2;
+	color: #555;
+}
+
+.portfolio-content a {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px solid #bbb;
+}
+
+.portfolio-content a:hover {
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px solid #555;
+}
+
+h1, h2, h3 {
+	font-family: 'Crimson Text', sans-serif;
+	letter-spacing: 1px;
+	font-weight: 300;
+	margin-bottom: 20px;
+}
+
+.navbar-brand {
+	font-weight: 800;
+	font-size: 1.5rem;
+	letter-spacing: 0.5px;
+}
+
+.navbar {
+	text-transform: uppercase;
+}
+
+.nav-item {
+	font-size: 0.8rem;
+	font-weight: 300;
+	letter-spacing: 1.5px;
+}
+
+.navbar-toggler {
+	border: 0;
+}
+
+.navbar-toggler-right {
+	right: 0rem;
+}
+
+.portfolio-img {
+	width: 100%;
+	max-height: 250px;
+	display: block;
+	object-fit: cover;
+}
+
+.project-img {
+	width: 100%;
+	display: block;
+	object-fit: cover;
+}
+
+/* Image Hover Effect */
+
+.hovereffect {
+	width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+}
+
+.hovereffect .overlay {
+	width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+
+.hovereffect .overlay-text {
+	font-size: 1.3rem;
+	font-family: 'Crimson Text', sans-serif;
+	font-weight: 300;
+	color: #000;
+	left: 50%;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	-webkit-transform: translate(-50%,-50%);
+	-ms-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+	opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+}
+
+.hovereffect:hover .overlay-text {
+	opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+  max-width: none;
+	width: 100%;
+	height: 100%;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.hovereffect:hover img {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.page-nav {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+.page-nav a,span {
+	font-size: 1.3rem;
+	font-family: 'Crimson Text', sans-serif;
+	font-weight: 300;
+	margin: 0 10px;
+	color: #000;
+}
