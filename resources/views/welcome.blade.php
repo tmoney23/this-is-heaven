@@ -13,13 +13,13 @@
     <!--<link rel="icon" href="fav.ico">-->
     <!-- ========== STYLESHEETS ========== -->
     <!-- Bootstrap CSS -->
-    <link href="{{URL::to('/')}}/public/cocoon/Documentation/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/cocoon/css/bootstrap.min.css" rel="stylesheet">
     <!-- Fonts Icon CSS -->
-    <link href="{{URL::to('/')}}/public/cocoon/Documentation/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{URL::to('/')}}/public/cocoon/Documentation/css/et-line.css" rel="stylesheet">
-    <link href="{{URL::to('/')}}/public/cocoon/Documentation/css/ionicons.min.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/cocoon/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/cocoon/css/et-line.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/cocoon/css/ionicons.min.css" rel="stylesheet">
     <!-- Carousel CSS -->
-    <link href="{{URL::to('/')}}/public/cocoon/Documentation/css/slick.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/cocoon/css/slick.css" rel="stylesheet">
     <!-- Magnific-popup -->
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <!-- Animate CSS -->
