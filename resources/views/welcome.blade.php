@@ -13,13 +13,13 @@
     <!--<link rel="icon" href="fav.ico">-->
     <!-- ========== STYLESHEETS ========== -->
     <!-- Bootstrap CSS -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/bootstrap.min.css" rel="stylesheet">
     <!-- Fonts Icon CSS -->
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="assets/css/et-line.css" rel="stylesheet">
-    <link href="assets/css/ionicons.min.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/et-line.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/ionicons.min.css" rel="stylesheet">
     <!-- Carousel CSS -->
-    <link href="assets/css/slick.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/slick.css" rel="stylesheet">
     <!-- Magnific-popup -->
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <!-- Animate CSS -->
