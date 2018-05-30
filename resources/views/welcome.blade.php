@@ -1,303 +1,173 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <!-- ========== Meta Tags ========== -->
-    <meta charset="UTF-8">
-    <meta name="description" content="Cocoon -Portfolio">
-    <meta name="keywords" content="Cocoon , Portfolio">
-    <meta name="author" content="Pharaohlab">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <!-- ========== Title ========== -->
-    <title> Cocoon -Portfolio</title>
-    <!-- ========== Favicon Ico ========== -->
-    <!--<link rel="icon" href="fav.ico">-->
-    <!-- ========== STYLESHEETS ========== -->
-    <!-- Bootstrap CSS -->
-    <link href="{{URL::to('/')}}/public/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Fonts Icon CSS -->
-    <link href="{{URL::to('/')}}/public/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{URL::to('/')}}/public/css/et-line.css" rel="stylesheet">
-    <link href="{{URL::to('/')}}/public/cocoon/css/ionicons.min.css" rel="stylesheet">
-    <!-- Carousel CSS -->
-    <link href="{{URL::to('/')}}/public/css/slick.css" rel="stylesheet">
-    <!-- Magnific-popup -->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <!-- Animate CSS -->
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <!-- Custom styles for this template -->
-    <link href="assets/css/main.css" rel="stylesheet">
-</head>
-<body>
-<div class="loader">
-    <div class="loader-outter"></div>
-    <div class="loader-inner"></div>
-</div>
 
-<div class="body-container container-fluid">
-    <a class="menu-btn" href="javascript:void(0)">
-        <i class="ion ion-grid"></i>
-    </a>
-    <div class="row justify-content-center">
-        <!--=================== side menu ====================-->
-        <div class="col-lg-2 col-md-3 col-12 menu_block">
+body {
+	font-family: 'Open Sans', sans-serif;
+}
 
-            <!--logo -->
-            <div class="logo_box">
-                <a href="#">
-                    <img src="{{URL::to('/')}}/public/img/logo.png" alt="cocoon">
-                </a>
-            </div>
-            <!--logo end-->
+form {
+	max-width: 500px;
+	margin: 0 auto;
+}
 
-            <!--main menu -->
-            <div class="side_menu_section">
-                <ul class="menu_nav">
-                    <li class="active">
-                        <a href="index.html">
-                            Home
-                        </a>
-                    </li>
-                    <li>
-                        <a href="about.html">
-                            About Us
-                        </a>
-                    </li>
-                    <li>
-                        <a href="services.html">
-                            Services
-                        </a>
-                    </li>
-                    <li>
-                        <a href="portfolio.html">
-                            Portfolio
-                        </a>
-                    </li>
-                    <li>
-                        <a href="blog.html">
-                            Blog
-                        </a>
-                    </li>
-                    <li>
-                        <a href="contact.html">
-                            Contact
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <!--main menu end -->
+button {
+  color: #777;
+	background: #fff;
+  padding: 4px 12px 4px 12px;
+  border: solid #777 2px;
+	transition: all 0.3s ease-in-out;
+  text-decoration: none;
+}
 
-            <!--filter menu -->
-            <div class="side_menu_section">
-                <h4 class="side_title">filter by:</h4>
-                <ul  id="filtr-container"  class="filter_nav">
-                    <li  data-filter="*" class="active"><a href="javascript:void(0)" >all</a></li>
-                    <li data-filter=".branding"> <a href="javascript:void(0)">branding</a></li>
-                    <li data-filter=".design"><a href="javascript:void(0)">design</a></li>
-                    <li data-filter=".photography"><a href="javascript:void(0)">photography</a></li>
-                    <li data-filter=".architecture"><a href="javascript:void(0)">architecture</a></li>
-                </ul>
-            </div>
-            <!--filter menu end -->
+button:hover {
+	color: #000;
+	border: solid #000 2px;
+  text-decoration: none;
+}
 
-            <!--social and copyright -->
-            <div class="side_menu_bottom">
-                <div class="side_menu_bottom_inner">
-                    <ul class="social_menu">
-                        <li>
-                            <a href="#"> <i class="ion ion-social-pinterest"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#"> <i class="ion ion-social-facebook"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#"> <i class="ion ion-social-twitter"></i> </a>
-                        </li>
-                        <li>
-                            <a href="#"> <i class="ion ion-social-dribbble"></i> </a>
-                        </li>
-                    </ul>
-                    <div class="copy_right">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p class="copyright">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    </div>
-                </div>
-            </div>
-            <!--social and copyright end -->
+input, textarea {
+	font-size: 0.8rem;
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 0.5rem 0.7rem;
+	margin: 5px 0;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
 
-        </div>
-        <!--=================== side menu end====================-->
+}
 
-        <!--=================== content body ====================-->
-        <div class="col-lg-10 col-md-9 col-12 body_block  align-content-center">
-            <div class="portfolio">
-                <div class="container-fluid">
-                    <!--=================== masaonry portfolio start====================-->
-                    <div class="grid img-container justify-content-center no-gutters">
-                        <div class="grid-sizer col-sm-12 col-md-6 col-lg-3"></div>
-                        <div class="grid-item branding  col-sm-12 col-md-6 col-lg-3">
-                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port1.png" title="project name 1">
-                                <div class="project_box_one">
-                                    <img src="{{URL::to('/')}}/public/img/portfolio/home-port1.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="grid-item  branding architecture  col-sm-12 col-md-6">
-                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port2.png" title="project name 2">
-                                <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port2.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="grid-item  design col-sm-12 col-md-6 col-lg-3">
-                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port3.png" title="project name 5">
-                                <div class="project_box_one">
-                                    <img src="{{URL::to('/')}}/public/img/portfolio/home-port3.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="grid-item  photography design col-sm-12 col-md-6 col-lg-3">
-                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port4.png" title="project name 5">
-                                <div class="project_box_one">
-                                    <img src="{{URL::to('/')}}/public/img/portfolio/home-port4.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="grid-item  branding photography  col-sm-12 col-md-6 col-lg-3">
-                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port5.png" title="project name 5">
-                                <div class="project_box_one">
-                                    <img src="{{URL::to('/')}}/public/img/portfolio/home-port5.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="grid-item   architecture design col-sm-12 col-md-6 col-lg-3">
-                            <a href="assets/img/portfolio/home-port6.png" title="project name 5">
-                                <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port6.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="grid-item  photography architecture col-sm-12 col-md-6 col-lg-3">
-                            <a href="assets/img/portfolio/home-port7.png" title="project name 5">
-                                <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port7.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="grid-item  branding design  col-sm-12 col-md-6 col-lg-3">
-                            <a href="assets/img/portfolio/home-port8.png" title="project name 5">
-                                <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port8.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="grid-item architecture  col-sm-12 col-md-6 col-lg-6">
-                            <a href="assets/img/portfolio/home-port9.png" title="project name 4">
-                                <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port9.png" alt="pro1" />
-                                    <div class="product_info">
-                                        <div class="product_info_text">
-                                            <div class="product_info_text_inner">
-                                                <i class="ion ion-plus"></i>
-                                                <h4>project name</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <!--=================== masaonry portfolio end====================-->
-                </div>
-            </div>
-        </div>
-        <!--=================== content body end ====================-->
-    </div>
-</div>
+input:focus, textarea:focus {
+  border-color: #777;
+  outline: none;
+}
 
+.portfolio-content {
+	line-height: 2;
+	color: #555;
+}
 
-<!-- jquery -->
-<script src="{{URL::to('/')}}/public/js/jquery.min.js"></script>
-<!-- bootstrap -->
-<script src="{{URL::to('/')}}/public/js/popper.js"></script>
-<script src="{{URL::to('/')}}/public/js/bootstrap.min.js"></script>
-<script src="{{URL::to('/')}}/public/js/waypoints.min.js"></script>
-<!--slick carousel -->
-<script src="{{URL::to('/')}}/public/js/slick.min.js"></script>
-<!--Portfolio Filter-->
-<script src="{{URL::to('/')}}/public/js/imgloaded.js"></script>
-<script src="{{URL::to('/')}}/public/js/isotope.js"></script>
-<!-- Magnific-popup -->
-<script src="{{URL::to('/')}}/public/js/jquery.magnific-popup.min.js"></script>
-<!--Counter-->
-<script src="{{URL::to('/')}}/public/js/jquery.counterup.min.js"></script>
-<!-- WOW JS -->
-<script src="{{URL::to('/')}}/public/js/wow.min.js"></script>
-<!-- Custom js -->
-<script src="{{URL::to('/')}}/public/js/main.js"></script>
-</body>
-</html>
+.portfolio-content a {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px solid #bbb;
+}
+
+.portfolio-content a:hover {
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px solid #555;
+}
+
+h1, h2, h3 {
+	font-family: 'Crimson Text', sans-serif;
+	letter-spacing: 1px;
+	font-weight: 300;
+	margin-bottom: 20px;
+}
+
+.navbar-brand {
+	font-weight: 800;
+	font-size: 1.5rem;
+	letter-spacing: 0.5px;
+}
+
+.navbar {
+	text-transform: uppercase;
+}
+
+.nav-item {
+	font-size: 0.8rem;
+	font-weight: 300;
+	letter-spacing: 1.5px;
+}
+
+.navbar-toggler {
+	border: 0;
+}
+
+.navbar-toggler-right {
+	right: 0rem;
+}
+
+.portfolio-img {
+	width: 100%;
+	max-height: 250px;
+	display: block;
+	object-fit: cover;
+}
+
+.project-img {
+	width: 100%;
+	display: block;
+	object-fit: cover;
+}
+
+/* Image Hover Effect */
+
+.hovereffect {
+	width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+}
+
+.hovereffect .overlay {
+	width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+
+.hovereffect .overlay-text {
+	font-size: 1.3rem;
+	font-family: 'Crimson Text', sans-serif;
+	font-weight: 300;
+	color: #000;
+	left: 50%;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	-webkit-transform: translate(-50%,-50%);
+	-ms-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+	opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+}
+
+.hovereffect:hover .overlay-text {
+	opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+  max-width: none;
+	width: 100%;
+	height: 100%;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.hovereffect:hover img {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.page-nav {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+.page-nav a,span {
+	font-size: 1.3rem;
+	font-family: 'Crimson Text', sans-serif;
+	font-weight: 300;
+	margin: 0 10px;
+	color: #000;
+}
