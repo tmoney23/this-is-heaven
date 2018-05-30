@@ -13,13 +13,13 @@
     <!--<link rel="icon" href="fav.ico">-->
     <!-- ========== STYLESHEETS ========== -->
     <!-- Bootstrap CSS -->
-    <link href="{{URL::to('/')}}/public/cocoon/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/bootstrap.min.css" rel="stylesheet">
     <!-- Fonts Icon CSS -->
-    <link href="{{URL::to('/')}}/public/cocoon/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{URL::to('/')}}/public/cocoon/css/et-line.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/et-line.css" rel="stylesheet">
     <link href="{{URL::to('/')}}/public/cocoon/css/ionicons.min.css" rel="stylesheet">
     <!-- Carousel CSS -->
-    <link href="{{URL::to('/')}}/public/cocoon/css/slick.css" rel="stylesheet">
+    <link href="{{URL::to('/')}}/public/css/slick.css" rel="stylesheet">
     <!-- Magnific-popup -->
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <!-- Animate CSS -->
@@ -44,7 +44,7 @@
             <!--logo -->
             <div class="logo_box">
                 <a href="#">
-                    <img src="assets/img/logo.png" alt="cocoon">
+                    <img src="{{URL::to('/')}}/public/img/logo.png" alt="cocoon">
                 </a>
             </div>
             <!--logo end-->
@@ -136,9 +136,9 @@
                     <div class="grid img-container justify-content-center no-gutters">
                         <div class="grid-sizer col-sm-12 col-md-6 col-lg-3"></div>
                         <div class="grid-item branding  col-sm-12 col-md-6 col-lg-3">
-                            <a href="assets/img/portfolio/home-port1.png" title="project name 1">
+                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port1.png" title="project name 1">
                                 <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port1.png" alt="pro1" />
+                                    <img src="{{URL::to('/')}}/public/img/portfolio/home-port1.png" alt="pro1" />
                                     <div class="product_info">
                                         <div class="product_info_text">
                                             <div class="product_info_text_inner">
@@ -151,7 +151,7 @@
                             </a>
                         </div>
                         <div class="grid-item  branding architecture  col-sm-12 col-md-6">
-                            <a href="assets/img/portfolio/home-port2.png" title="project name 2">
+                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port2.png" title="project name 2">
                                 <div class="project_box_one">
                                     <img src="assets/img/portfolio/home-port2.png" alt="pro1" />
                                     <div class="product_info">
@@ -166,9 +166,9 @@
                             </a>
                         </div>
                         <div class="grid-item  design col-sm-12 col-md-6 col-lg-3">
-                            <a href="assets/img/portfolio/home-port3.png" title="project name 5">
+                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port3.png" title="project name 5">
                                 <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port3.png" alt="pro1" />
+                                    <img src="{{URL::to('/')}}/public/img/portfolio/home-port3.png" alt="pro1" />
                                     <div class="product_info">
                                         <div class="product_info_text">
                                             <div class="product_info_text_inner">
@@ -181,9 +181,9 @@
                             </a>
                         </div>
                         <div class="grid-item  photography design col-sm-12 col-md-6 col-lg-3">
-                            <a href="assets/img/portfolio/home-port4.png" title="project name 5">
+                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port4.png" title="project name 5">
                                 <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port4.png" alt="pro1" />
+                                    <img src="{{URL::to('/')}}/public/img/portfolio/home-port4.png" alt="pro1" />
                                     <div class="product_info">
                                         <div class="product_info_text">
                                             <div class="product_info_text_inner">
@@ -196,9 +196,9 @@
                             </a>
                         </div>
                         <div class="grid-item  branding photography  col-sm-12 col-md-6 col-lg-3">
-                            <a href="assets/img/portfolio/home-port5.png" title="project name 5">
+                            <a href="{{URL::to('/')}}/public/img/portfolio/home-port5.png" title="project name 5">
                                 <div class="project_box_one">
-                                    <img src="assets/img/portfolio/home-port5.png" alt="pro1" />
+                                    <img src="{{URL::to('/')}}/public/img/portfolio/home-port5.png" alt="pro1" />
                                     <div class="product_info">
                                         <div class="product_info_text">
                                             <div class="product_info_text_inner">
@@ -281,23 +281,23 @@
 
 
 <!-- jquery -->
-<script src="assets/js/jquery.min.js"></script>
+<script src="{{URL::to('/')}}/public/js/jquery.min.js"></script>
 <!-- bootstrap -->
-<script src="assets/js/popper.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/waypoints.min.js"></script>
+<script src="{{URL::to('/')}}/public/js/popper.js"></script>
+<script src="{{URL::to('/')}}/public/js/bootstrap.min.js"></script>
+<script src="{{URL::to('/')}}/public/js/waypoints.min.js"></script>
 <!--slick carousel -->
-<script src="assets/js/slick.min.js"></script>
+<script src="{{URL::to('/')}}/public/js/slick.min.js"></script>
 <!--Portfolio Filter-->
-<script src="assets/js/imgloaded.js"></script>
-<script src="assets/js/isotope.js"></script>
+<script src="{{URL::to('/')}}/public/js/imgloaded.js"></script>
+<script src="{{URL::to('/')}}/public/js/isotope.js"></script>
 <!-- Magnific-popup -->
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="{{URL::to('/')}}/public/js/jquery.magnific-popup.min.js"></script>
 <!--Counter-->
-<script src="assets/js/jquery.counterup.min.js"></script>
+<script src="{{URL::to('/')}}/public/js/jquery.counterup.min.js"></script>
 <!-- WOW JS -->
-<script src="assets/js/wow.min.js"></script>
+<script src="{{URL::to('/')}}/public/js/wow.min.js"></script>
 <!-- Custom js -->
-<script src="assets/js/main.js"></script>
+<script src="{{URL::to('/')}}/public/js/main.js"></script>
 </body>
 </html>
