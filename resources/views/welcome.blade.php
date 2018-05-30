@@ -1,3 +1,4 @@
+<!doctype html>
 body {
 	font-family: 'Open Sans', sans-serif;
 }
