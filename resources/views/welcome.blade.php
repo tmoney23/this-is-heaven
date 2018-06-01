@@ -78,8 +78,8 @@
                     <a href="https://laravel.com/docs">person</a>
                     <a href="https://laracasts.com">places</a>
                     <a href="https://laravel-news.com">things</a>
-                    <a href="https://yahoo.com">about</a>
-                    <a href="https://formethisisheaven.com/contact">contact</a>
+                    <a href="https://forge.laravel.com">about</a>
+                    <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
         </div>
