@@ -78,7 +78,7 @@
                     <a href="https://laravel.com/docs">person</a>
                     <a href="https://laracasts.com">places</a>
                     <a href="https://laravel-news.com">things</a>
-                    <a href="https://forge.laravel.com">about</a>
+                    <a href="https://formethisisheaven.com/about">about</a>
                     <a href="https://formethisisheaven.com/contact">contact</a>
                 </div>
             </div>
