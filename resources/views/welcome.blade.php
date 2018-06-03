@@ -72,7 +72,9 @@
             <div class="content">
                 <div class="title m-b-md">
                     Welcome!
-                    i like to travel
+                  </div>
+                    </div>
+                     i like to travel
                 </div>
 
                 <div class="links">
