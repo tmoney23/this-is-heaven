@@ -72,7 +72,6 @@
             <div class="content">
                 <div class="title m-b-md">
                     Welcome!
-                  </div>
                     </div>
                      i like to travel
                 </div>
