@@ -71,7 +71,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    for me this is heaven
+                    Welcome!
                 </div>
 
                 <div class="links">
