@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('edinburgh');
+    return view('welcome');
 });
 
 Route::get('/contact', function () {
